@@ -1,0 +1,48 @@
+site_name: YAN & BILL
+repo_url: https://github.com/BallBill/ballbill.github.io
+repo_name: YAN & BILL
+copyright: Copyright &copy; 2024 YAN & BILL
+theme:
+  name: material
+  language: zh-TW
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.expand
+  icon:
+    logo: material/cat
+  palette:
+
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep purple
+      accent: purple
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      accent: purple
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+nav:
+  - 'index.md'
+  - Game:
+    - 'albion_online.md'
+    - 'the_elder_scrolls_online.md'
