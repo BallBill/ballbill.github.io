@@ -46,3 +46,6 @@ nav:
   - Game:
     - 'albion_online.md'
     - 'the_elder_scrolls_online.md'
+  - Comptuer:
+    - '3dprint.md'
+    - 'github.md'
