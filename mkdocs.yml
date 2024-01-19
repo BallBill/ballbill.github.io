@@ -1,7 +1,13 @@
+# Project information
 site_name: YAN & BILL
+site_url: https://ballbill.github.io
+site_author: YAN & BILL
+# Repository
 repo_url: https://github.com/BallBill/ballbill.github.io
 repo_name: YAN & BILL
+# Copyright
 copyright: Copyright &copy; 2024 YAN & BILL
+# Configuration
 theme:
   name: material
   language: zh-TW
@@ -9,16 +15,20 @@ theme:
     - navigation.instant
     - navigation.sections
     - navigation.expand
+    - navigation.tabs
+    - navigation.top
+    - navigation.footer
+    - navigation.tracking
+    - navigation.indexes
+    - search.suggest
   icon:
     logo: material/cat
   palette:
-
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
       toggle:
         icon: material/brightness-auto
         name: Switch to light mode
-
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -27,7 +37,6 @@ theme:
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
-
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
@@ -36,16 +45,38 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
+# Additional configuration
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/BallBill/ballbill.github.io
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/7MNyP7yrdD
+# Extensions
 markdown_extensions:
+  - toc:
+      permalink: true
   - attr_list
+  - md_in_html
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+# Page tree
 nav:
-  - 'index.md'
+  - index.md
   - Game:
-    - 'albion_online.md'
-    - 'the_elder_scrolls_online.md'
+    - Albion Online:
+      - albion_online/index.md
+      - Melee Weapons: albion_online/ao_melee_weapons.md
+      - Magic Weapons: albion_online/ao_magic_weapons.md
+      - Ranged Weapons: albion_online/ao_ranged_weapons.md
+      - Off Hand: albion_online/ao_off_hand.md
+      - Cloth Armor: albion_online/ao_cloth_armor.md
+      - Lether Armor: albion_online/ao_leather_armor.md
+      - Plate Armor: albion_online/ao_plate_armor.md
+      - AVA10: albion_online/ava10.md
+      - AVA20: albion_online/ava20.md
+    - The Elder Scrolls Online: the_elder_scrolls_online.md
   - Comptuer:
-    - '3dprint.md'
-    - 'github.md'
+    - 3dprint.md
+    - github.md
