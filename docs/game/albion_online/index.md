@@ -2,8 +2,8 @@
 
 * [Albion Battle Reports](https://albionbattles.com)
 * [Albion Killboard](https://kill-board.com/battles)
-* [Albion DB west](https://albiondb.net)
-* [Albion DB east](https://east.albiondb.net)
+* [Albion DB West](https://albiondb.net)
+* [Albion DB East](https://east.albiondb.net)
 * [Albion Online Loot Logger](https://matheus.sampaio.us/ao-loot-logger-viewer) / [:material-github:](https://github.com/matheussampaio/ao-loot-logger)
 * [Murder Ledger](https://murderledger.com)
 * [Albion Online Statistics Analysis](https://triky313.github.io/AlbionOnline-StatisticsAnalysis) / [:material-github:](https://github.com/Triky313/AlbionOnline-StatisticsAnalysis)
@@ -20,4 +20,4 @@
 * [Collection Of Weapon Images](https://forum.albiononline.com/index.php/Thread/109516-Albion-Weaponry-collection-of-weapon-Images)
 * [Collection Of Armor Images](https://forum.albiononline.com/index.php/Thread/138211-Albion-Armory-collection-of-armor-images)
 * [Collection Of Mount Images](https://forum.albiononline.com/index.php/Thread/118465-Mounts-of-Albion-collection-of-mount-images)
-* [Albion Online Avatars & Rings](https://forum.albiononline.com/index.php/Thread/101564-Albion-Online-Avatars-Rings) 
+* [Albion Online Avatars & Rings](https://forum.albiononline.com/index.php/Thread/101564-Albion-Online-Avatars-Rings)

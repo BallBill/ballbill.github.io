@@ -65,18 +65,23 @@ markdown_extensions:
 nav:
   - index.md
   - Game:
+    - game/index.md
     - Albion Online:
-      - albion_online/index.md
-      - Melee Weapons: albion_online/ao_melee_weapons.md
-      - Magic Weapons: albion_online/ao_magic_weapons.md
-      - Ranged Weapons: albion_online/ao_ranged_weapons.md
-      - Off Hand: albion_online/ao_off_hand.md
-      - Cloth Armor: albion_online/ao_cloth_armor.md
-      - Lether Armor: albion_online/ao_leather_armor.md
-      - Plate Armor: albion_online/ao_plate_armor.md
-      - AVA10: albion_online/ava10.md
-      - AVA20: albion_online/ava20.md
-    - The Elder Scrolls Online: the_elder_scrolls_online.md
-  - Comptuer:
-    - 3dprint.md
-    - github.md
+      - game/albion_online/index.md
+      - Melee Weapons: game/albion_online/ao_melee_weapons.md
+      - Magic Weapons: game/albion_online/ao_magic_weapons.md
+      - Ranged Weapons: game/albion_online/ao_ranged_weapons.md
+      - Off Hand: game/albion_online/ao_off_hand.md
+      - Cloth Armor: game/albion_online/ao_cloth_armor.md
+      - Lether Armor: game/albion_online/ao_leather_armor.md
+      - Plate Armor: game/albion_online/ao_plate_armor.md
+      - AVA10: game/albion_online/ava10.md
+      - AVA20: game/albion_online/ava20.md
+    - The Elder Scrolls Online: game/the_elder_scrolls_online.md
+    - Game Site: game/game.md
+  - Computer:
+    - computer/index.md
+    - 3D Print: computer/3dprint.md
+    - Github: computer/github.md
+    - AI: computer/ai.md
+    - Markdown: computer/markdown.md
