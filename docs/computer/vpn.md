@@ -1,0 +1,6 @@
+- [docker-install-xray](https://github.com/stiluddclanward/docker-install-xray)
+- [new-pac](https://github.com/Alvin9999/new-pac)
+- [Project V](https://www.v2fly.org) / [:material-github:](https://github.com/v2fly/v2ray-core)
+- [Project X](https://xtls.github.io) / [:material-github:](https://github.com/XTLS/Xray-core)
+- [Teddysun](https://teddysun.com) / [:material-docker:](https://hub.docker.com/u/teddysun)
+- [v2rayN](https://github.com/2dust/v2rayN) / [v2rayNG](https://github.com/2dust/v2rayNG)

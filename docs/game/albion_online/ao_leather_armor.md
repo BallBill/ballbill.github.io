@@ -32,7 +32,7 @@
 
 || English Name | Chinese Name |
 |---|---|---|
-| ![](../../img/ava/T8_SHOES_LEATHER_SET1@4) | Mercenary Shoes | 傭兵鞋子（閃現鞋） |
+| ![](../../img/ava/T8_SHOES_LEATHER_SET1@4) | Mercenary Shoes | 傭兵鞋子（閃鞋） |
 | ![](../../img/ava/T8_SHOES_LEATHER_SET2@4) | Hunter Shoes | 獵人鞋子 |
 | ![](../../img/ava/T8_SHOES_LEATHER_SET3@4) | Assassin Shoes | 刺客鞋子 |
 | ![](../../img/ava/T8_SHOES_LEATHER_ROYAL@4) | Royal Shoes | 皇家鞋子（大跳鞋） |

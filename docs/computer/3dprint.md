@@ -1,5 +1,3 @@
-# 3D Print
-
 ## Printer
 
 - [Prusa](https://www.prusa3d.com) / [:material-github:](https://github.com/prusa3d)

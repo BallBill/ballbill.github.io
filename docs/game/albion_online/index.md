@@ -1,23 +1,23 @@
 # Albion Online
 
 * [Albion Battle Reports](https://albionbattles.com)
-* [Albion Killboard](https://kill-board.com/battles)
-* [Albion DB West](https://albiondb.net)
 * [Albion DB East](https://east.albiondb.net)
+* [Albion DB West](https://albiondb.net)
+* [Albion Killboard](https://kill-board.com/battles)
 * [Albion Online Loot Logger](https://matheus.sampaio.us/ao-loot-logger-viewer) / [:material-github:](https://github.com/matheussampaio/ao-loot-logger)
-* [Murder Ledger](https://murderledger.com)
 * [Albion Online Statistics Analysis](https://triky313.github.io/AlbionOnline-StatisticsAnalysis) / [:material-github:](https://github.com/Triky313/AlbionOnline-StatisticsAnalysis)
+* [Murder Ledger](https://murderledger.com)
 
 ## Discord Bot
 
-* [KillBoard#1](https://killboard-1.com "Discord Bot")
 * [Albion Killbot](https://albion-killbot.com "Discord Bot") / [:material-github:](https://github.com/black-river-gaming/albion-killbot)
+* [KillBoard#1](https://killboard-1.com "Discord Bot")
 
 ## Info
 
-* [Game Commands](https://wiki.albiononline.com/wiki/Game_Commands)
-* [Icon](https://wiki.albiononline.com/wiki/Icon)
-* [Collection Of Weapon Images](https://forum.albiononline.com/index.php/Thread/109516-Albion-Weaponry-collection-of-weapon-Images)
+* [Albion Online Avatars & Rings](https://forum.albiononline.com/index.php/Thread/101564-Albion-Online-Avatars-Rings)
 * [Collection Of Armor Images](https://forum.albiononline.com/index.php/Thread/138211-Albion-Armory-collection-of-armor-images)
 * [Collection Of Mount Images](https://forum.albiononline.com/index.php/Thread/118465-Mounts-of-Albion-collection-of-mount-images)
-* [Albion Online Avatars & Rings](https://forum.albiononline.com/index.php/Thread/101564-Albion-Online-Avatars-Rings)
+* [Collection Of Weapon Images](https://forum.albiononline.com/index.php/Thread/109516-Albion-Weaponry-collection-of-weapon-Images)
+* [Game Commands](https://wiki.albiononline.com/wiki/Game_Commands)
+* [Icon](https://wiki.albiononline.com/wiki/Icon)

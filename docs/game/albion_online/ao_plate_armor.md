@@ -26,7 +26,7 @@
 | ![](../../img/ava/T8_ARMOR_PLATE_HELL@4) | Demon Armor | 惡魔護甲（反傷甲） |
 | ![](../../img/ava/T8_ARMOR_PLATE_KEEPER@4) | Judicator Armor | 審判者護甲（JUDY甲） |
 | ![](../../img/ava/T8_ARMOR_PLATE_AVALON@4) | Armor of Valor | 英勇護甲 |
-| ![](../../img/ava/T8_ARMOR_PLATE_FEY@4) | Duskweaver Armor | 幽靈編織者護甲 |
+| ![](../../img/ava/T8_ARMOR_PLATE_FEY@4) | Duskweaver Armor | 幽靈編織者護甲（蜘蛛甲） |
 
 ## Plate Boots
 

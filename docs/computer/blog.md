@@ -1,0 +1,2 @@
+- [HelloGitHub](https://hellogithub.com) / [:material-github:](https://github.com/521xueweihan/HelloGitHub)
+- [科技爱好者周刊](https://www.ruanyifeng.com/blog) / [:material-github:](https://github.com/ruanyf/weekly)

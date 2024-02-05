@@ -77,11 +77,19 @@ nav:
       - Plate Armor: game/albion_online/ao_plate_armor.md
       - AVA10: game/albion_online/ava10.md
       - AVA20: game/albion_online/ava20.md
+      - ZVZ: game/albion_online/zvz.md
+      - ZVZ v1: game/albion_online/zvz_v1.md
     - The Elder Scrolls Online: game/the_elder_scrolls_online.md
     - Game Site: game/game.md
   - Computer:
     - computer/index.md
     - 3D Print: computer/3dprint.md
-    - Github: computer/github.md
     - AI: computer/ai.md
+    - Blog: computer/blog.md
+    - GitHub: computer/github.md
     - Markdown: computer/markdown.md
+    - Software: computer/software.md
+    - VPN: computer/vpn.md
+  - Other:
+    - other/index.md
+    - Manufacturing: other/manufacturing.md
