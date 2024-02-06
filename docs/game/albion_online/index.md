@@ -4,13 +4,13 @@
 * [Albion DB East](https://east.albiondb.net)
 * [Albion DB West](https://albiondb.net)
 * [Albion Killboard](https://kill-board.com/battles)
-* [Albion Online Loot Logger](https://matheus.sampaio.us/ao-loot-logger-viewer) / [:material-github:](https://github.com/matheussampaio/ao-loot-logger)
-* [Albion Online Statistics Analysis](https://triky313.github.io/AlbionOnline-StatisticsAnalysis) / [:material-github:](https://github.com/Triky313/AlbionOnline-StatisticsAnalysis)
+* [Albion Online Loot Logger](https://matheus.sampaio.us/ao-loot-logger-viewer)
+* [Albion Online Statistics Analysis](https://triky313.github.io/AlbionOnline-StatisticsAnalysis)
 * [Murder Ledger](https://murderledger.com)
 
 ## Discord Bot
 
-* [Albion Killbot](https://albion-killbot.com "Discord Bot") / [:material-github:](https://github.com/black-river-gaming/albion-killbot)
+* [Albion Killbot](https://albion-killbot.com "Discord Bot")
 * [KillBoard#1](https://killboard-1.com "Discord Bot")
 
 ## Info

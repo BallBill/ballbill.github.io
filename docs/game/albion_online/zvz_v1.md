@@ -69,8 +69,3 @@
 | ![](../../img/ava/T8_2H_CROSSBOWLARGE_MORGANA@4) | ![](../../img/ava/T8_HEAD_LEATHER_FEY@4)![](../../img/ava/T8_HEAD_CLOTH_FEY@4) | ![](../../img/ava/T8_ARMOR_CLOTH_SET2@4) | ![](../../img/ava/T8_SHOES_CLOTH_ROYAL@4) | ![](../../img/ava/T8_CAPEITEM_FW_MARTLOCK@4)![](../../img/ava/T8_CAPEITEM_FW_FORTSTERLING@4)![](../../img/ava/T8_CAPEITEM_FW_LYMHURST@4) | ![](../../img/ava/T8_MEAL_STEW@3) |
 | ![](../../img/ava/T8_2H_ICECRYSTAL_UNDEAD@4) | ![](../../img/ava/T8_HEAD_LEATHER_SET3@4)![](../../img/ava/T8_HEAD_LEATHER_ROYAL@4) | ![](../../img/ava/T8_ARMOR_CLOTH_SET2@4) | ![](../../img/ava/T8_SHOES_CLOTH_ROYAL@4)![](../../img/ava/T8_SHOES_PLATE_UNDEAD@4)![](../../img/ava/T8_SHOES_LEATHER_SET1@4) | ![](../../img/ava/T8_CAPEITEM_FW_MARTLOCK@4)![](../../img/ava/T8_CAPEITEM_FW_FORTSTERLING@4)![](../../img/ava/T8_CAPEITEM_FW_LYMHURST@4) | ![](../../img/ava/T8_MEAL_STEW@3) |
 | ![](../../img/ava/T8_2H_SHAPESHIFTER_AVALON@4) | ![](../../img/ava/T8_HEAD_LEATHER_SET3@4)![](../../img/ava/T8_HEAD_LEATHER_ROYAL@4) | ![](../../img/ava/T8_ARMOR_LEATHER_AVALON@4) | ![](../../img/ava/T8_SHOES_CLOTH_ROYAL@4) | ![](../../img/ava/T8_CAPEITEM_FW_MARTLOCK@4)![](../../img/ava/T8_CAPEITEM_FW_FORTSTERLING@4)![](../../img/ava/T8_CAPEITEM_FW_LYMHURST@4) | ![](../../img/ava/T8_MEAL_STEW@3) |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
