@@ -1,9 +1,21 @@
 - [Epic Pen](https://epicpen.com)
+- [Etcher](https://etcher.io)
 - [Geek Uninstaller](https://geekuninstaller.com)
+- [MobaXterm](https://mobaxterm.mobatek.net)
+- [Moonlight](https://moonlight-stream.org)
 - [obs-websocket](https://github.com/obsproject/obs-websocket)
 - [Padavan](https://opt.cn2qq.com/padavan/)
+- [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty)
+- [Rufus](https://rufus.ie)
+- [SD Memory Card Formatter](https://www.sdcard.org/downloads/formatter)
 - [Uninstalr](https://uninstalr.com)
-- [MobaXterm](https://mobaxterm.mobatek.net)
+- [WinSetView](https://github.com/LesFerch/WinSetView)
+
+## Media Player
+
+- [Media Player Classic - BE](https://sourceforge.net/projects/mpcbe)
+- [Media Player Classic - Home Cinema](https://github.com/clsid2/mpc-hc)
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
 ## OpenWrt
 

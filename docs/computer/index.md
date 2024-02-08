@@ -8,18 +8,37 @@
 - [Personal Data Leak Checker](https://cybernews.com/personal-data-leak-check)
 - [W3Techs](https://w3techs.com)
 
+## GitHub
+
+- [Awesome-Selfhosted](https://awesome-selfhosted.net)
+- [datarhei Restreamer](https://docs.datarhei.com/restreamer)
+- [Github Ranking](https://evanli.github.io/Github-Ranking)
+- [Gitstar Ranking](https://gitstar-ranking.com)
+- [Magisk](https://topjohnwu.github.io/Magisk/) / [:material-github:](https://github.com/topjohnwu/Magisk)
+- [Pixelify](https://github.com/Kingsman44/Pixelify)
+- [SVG logos](https://svgl.app)
+- [Twitch-Channel-Points-Miner-v2](https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2)
+
 ## Linux
 
 - [Armbian](https://www.armbian.com)
 
-## Media Player
+## AI
 
-- [Media Player Classic - BE](https://sourceforge.net/projects/mpcbe)
-- [Media Player Classic - Home Cinema](https://github.com/clsid2/mpc-hc)
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+- [今天比昨天厲害](https://better-than-yesterday.beehiiv.com)
+- [Jamstack](https://jamstack.org)
+- [Midjourney](https://www.midjourney.com)
+
+## RC
+
+- [Betaflight](https://betaflight.com)
+- [EdgeTX](https://edgetx.org)
+- [ExpressLRS](https://www.expresslrs.org)
+- [Multiprotocol TX Module](https://github.com/pascallanger/DIY-Multiprotocol-TX-Module)
 
 ## Other
 
+- [PagerMaid-Pyro](https://xtaolabs.com)
 - [RSSHub](https://docs.rsshub.app)
 - [VuePress](https://vuepress.vuejs.org)
 - [XPEnology](https://xpenology.com/forum)

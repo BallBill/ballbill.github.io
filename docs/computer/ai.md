@@ -1,3 +1,0 @@
-- [Jamstack](https://jamstack.org)
-- [Midjourney](https://www.midjourney.com)
-- [今天比昨天厲害](https://better-than-yesterday.beehiiv.com)

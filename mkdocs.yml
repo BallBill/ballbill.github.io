@@ -12,14 +12,14 @@ theme:
   name: material
   language: zh-TW
   features:
+    - navigation.expand
+    - navigation.footer
+    - navigation.indexes
     - navigation.instant
     - navigation.sections
-    - navigation.expand
     - navigation.tabs
     - navigation.top
-    - navigation.footer
     - navigation.tracking
-    - navigation.indexes
     - search.suggest
   icon:
     logo: material/cat
@@ -63,7 +63,7 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 # Page tree
 nav:
-  - index.md
+  - YaN & BiLL: index.md
   - Game:
     - game/index.md
     - Albion Online:
@@ -84,9 +84,7 @@ nav:
   - Computer:
     - computer/index.md
     - 3D Print: computer/3dprint.md
-    - AI: computer/ai.md
     - Blog: computer/blog.md
-    - GitHub: computer/github.md
     - Markdown: computer/markdown.md
     - Smart Home: computer/smarthome.md
     - Software: computer/software.md

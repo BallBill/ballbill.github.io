@@ -1,6 +1,0 @@
-- [Awesome-Selfhosted](https://awesome-selfhosted.net)
-- [Github Ranking](https://evanli.github.io/Github-Ranking)
-- [Gitstar Ranking](https://gitstar-ranking.com)
-- [Magisk](https://topjohnwu.github.io/Magisk/) / [:material-github:](https://github.com/topjohnwu/Magisk)
-- [SVG logos](https://svgl.app)
-- [Twitch-Channel-Points-Miner-v2](https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2)
