@@ -63,7 +63,7 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 # Page tree
 nav:
-  - YaN & BiLL: index.md
+  - YAN & BILL: index.md
   - Game:
     - game/index.md
     - Albion Online:
