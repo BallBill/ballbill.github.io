@@ -64,24 +64,25 @@ markdown_extensions:
 # Page tree
 nav:
   - YAN & BILL: index.md
-  - Game:
+  - GAME:
     - game/index.md
     - Albion Online:
       - game/albion_online/index.md
-      - Melee Weapons: game/albion_online/ao_melee_weapons.md
       - Magic Weapons: game/albion_online/ao_magic_weapons.md
+      - Melee Weapons: game/albion_online/ao_melee_weapons.md
       - Ranged Weapons: game/albion_online/ao_ranged_weapons.md
       - Off Hand: game/albion_online/ao_off_hand.md
       - Cloth Armor: game/albion_online/ao_cloth_armor.md
       - Lether Armor: game/albion_online/ao_leather_armor.md
       - Plate Armor: game/albion_online/ao_plate_armor.md
+      - Cape: game/albion_online/ao_cape.md
       - AVA10: game/albion_online/ava10.md
       - AVA20: game/albion_online/ava20.md
       - ZVZ: game/albion_online/zvz.md
       - ZVZ v1: game/albion_online/zvz_v1.md
     - The Elder Scrolls Online: game/the_elder_scrolls_online.md
     - Game Site: game/game.md
-  - Computer:
+  - COMPUTER:
     - computer/index.md
     - 3D Print: computer/3dprint.md
     - Blog: computer/blog.md
@@ -89,6 +90,6 @@ nav:
     - Smart Home: computer/smarthome.md
     - Software: computer/software.md
     - VPN: computer/vpn.md
-  - Other:
+  - OTHER:
     - other/index.md
     - Manufacturing: other/manufacturing.md
