@@ -12,8 +12,6 @@
 
 - [Awesome-Selfhosted](https://awesome-selfhosted.net)
 - [datarhei Restreamer](https://docs.datarhei.com/restreamer)
-- [Github Ranking](https://evanli.github.io/Github-Ranking)
-- [Gitstar Ranking](https://gitstar-ranking.com)
 - [SVG logos](https://svgl.app)
 - [Twitch-Channel-Points-Miner-v2](https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2)
 
@@ -26,6 +24,14 @@
 - [今天比昨天厲害](https://better-than-yesterday.beehiiv.com)
 - [Jamstack](https://jamstack.org)
 - [Midjourney](https://www.midjourney.com)
+
+## Ranking
+
+- [AlternativeTo](https://alternativeto.net)
+- [DB-Engines Ranking](https://db-engines.com/en/ranking)
+- [Github Ranking](https://evanli.github.io/Github-Ranking)
+- [Gitstar Ranking](https://gitstar-ranking.com)
+- [SimilarWeb](https://www.similarweb.com)
 
 ## RC
 
@@ -40,3 +46,11 @@
 - [RSSHub](https://docs.rsshub.app)
 - [VuePress](https://vuepress.vuejs.org)
 - [XPEnology](https://xpenology.com/forum)
+
+## Web
+
+- [LifeOS](https://obsidian-life-os.netlify.app)
+- [Memos](https://www.usememos.com)
+- [Obsidian](https://obsidian.md)
+- [Rspack](https://www.rspack.dev)
+- [Rspress](https://rspress.dev)

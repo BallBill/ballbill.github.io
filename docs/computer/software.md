@@ -1,5 +1,4 @@
 - [EarTrumpet](https://eartrumpet.app)
-- [Epic Pen](https://epicpen.com)
 - [obs-websocket](https://github.com/obsproject/obs-websocket)
 - [WinDbg](https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger)
 - [WinSetView](https://github.com/LesFerch/WinSetView)
@@ -33,6 +32,7 @@
 
 ## File Sync
 
+- [AList](https://alist.nn.ci)
 - [FreeFileSync](https://freefilesync.org)
 - [Rclone browser](https://kapitainsky.github.io/RcloneBrowser)
 - [Rclone](https://rclone.org)
@@ -59,6 +59,13 @@
 - [SmartDNS](https://pymumu.github.io/smartdns/)
 - [stangri’s OpenWrt Packages Documentation](https://docs.openwrt.melmac.net)
 - [X-Wrt](https://x-wrt.com)
+
+## Screen Annotation
+
+- [Epic Pen](https://epicpen.com)
+- [ppInk](https://github.com/pubpub-zz/ppInk)
+- [gInk](https://github.com/geovens/gInk)
+- [ZoomIt](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit)
 
 ## SD Cards & USB Drives Tools
 

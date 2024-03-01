@@ -36,7 +36,7 @@
 | ![](https://render.albiononline.com/v1/item/T8_SHOES_LEATHER_SET2@4.png) | ![](../../img/ava/T8_SHOES_LEATHER_SET2@4) | Hunter Shoes | 獵人鞋子 |
 | ![](https://render.albiononline.com/v1/item/T8_SHOES_LEATHER_SET3@4.png) | ![](../../img/ava/T8_SHOES_LEATHER_SET3@4) | Assassin Shoes | 刺客鞋子 |
 | ![](https://render.albiononline.com/v1/item/T8_SHOES_LEATHER_ROYAL@4.png) | ![](../../img/ava/T8_SHOES_LEATHER_ROYAL@4) | Royal Shoes | 皇家鞋子（大跳鞋） |
-| ![](https://render.albiononline.com/v1/item/T8_SHOES_LEATHER_MORGANA@4.png) | ![](../../img/ava/T8_SHOES_LEATHER_MORGANA@4) | Stalker Shoes | 尾行鞋子 |
+| ![](https://render.albiononline.com/v1/item/T8_SHOES_LEATHER_MORGANA@4.png) | ![](../../img/ava/T8_SHOES_LEATHER_MORGANA@4) | Stalker Shoes | 尾行鞋子（雙閃鞋） |
 | ![](https://render.albiononline.com/v1/item/T8_SHOES_LEATHER_HELL@4.png) | ![](../../img/ava/T8_SHOES_LEATHER_HELL@4) | Hellion Shoes | 喧囂鞋子 |
 | ![](https://render.albiononline.com/v1/item/T8_SHOES_LEATHER_UNDEAD@4.png) | ![](../../img/ava/T8_SHOES_LEATHER_UNDEAD@4) | Specter Shoes | 幽靈鞋子（長隱鞋） |
 | ![](https://render.albiononline.com/v1/item/T8_SHOES_LEATHER_AVALON@4.png) | ![](../../img/ava/T8_SHOES_LEATHER_AVALON@4) | Shoes of Tenacity | 堅韌鞋子（隱鞋） |

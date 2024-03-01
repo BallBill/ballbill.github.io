@@ -8,3 +8,4 @@
 - [Tailscale](https://tailscale.com)
 - [Teddysun](https://teddysun.com) / [:material-docker:](https://hub.docker.com/u/teddysun)
 - [v2rayN](https://github.com/2dust/v2rayN) / [v2rayNG](https://github.com/2dust/v2rayNG)
+- [Watt Toolkit](https://steampp.net)

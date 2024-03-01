@@ -1,5 +1,6 @@
 ## World Of Warcraft
 
+- [DBM-Warmane](https://github.com/Zidras/DBM-Warmane)
 - [ElvUI](https://github.com/ElvUI-WotLK/ElvUI)
 - [Skada](https://github.com/bkader/Skada-WoTLK)
 - [Warmane](https://www.warmane.com)
@@ -22,3 +23,4 @@
 - [Minecraft Classic](https://classic.minecraft.net)
 - [MonsterHunterSpoofing](https://www.reddit.com/r/MonsterHunterSpoofing)
 - [Ova Games](https://www.ovagames.com)
+- [SteamDB](https://steamdb.info)
