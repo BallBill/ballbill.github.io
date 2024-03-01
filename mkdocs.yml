@@ -21,6 +21,7 @@ theme:
     - navigation.top
     - navigation.tracking
     - search.suggest
+    - toc.integrate
   icon:
     logo: material/cat
   palette:
@@ -79,7 +80,6 @@ nav:
       - AVA10: game/albion_online/ava10.md
       - AVA20: game/albion_online/ava20.md
       - ZVZ: game/albion_online/zvz.md
-      - ZVZ v1: game/albion_online/zvz_v1.md
     - The Elder Scrolls Online: game/the_elder_scrolls_online.md
     - Game Site: game/game.md
   - COMPUTER:
