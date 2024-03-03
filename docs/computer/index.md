@@ -8,6 +8,17 @@
 - [Personal Data Leak Checker](https://cybernews.com/personal-data-leak-check)
 - [W3Techs](https://w3techs.com)
 
+## AI
+
+- [今天比昨天厲害](https://better-than-yesterday.beehiiv.com)
+- [Jamstack](https://jamstack.org)
+- [Midjourney](https://www.midjourney.com)
+
+## Blog
+
+- [科技爱好者周刊](https://www.ruanyifeng.com/blog) / [:material-github:](https://github.com/ruanyf/weekly)
+- [HelloGitHub](https://hellogithub.com) / [:material-github:](https://github.com/521xueweihan/HelloGitHub)
+
 ## GitHub
 
 - [Awesome-Selfhosted](https://awesome-selfhosted.net)
@@ -19,11 +30,15 @@
 
 - [Armbian](https://www.armbian.com)
 
-## AI
+## Markdown
 
-- [今天比昨天厲害](https://better-than-yesterday.beehiiv.com)
-- [Jamstack](https://jamstack.org)
-- [Midjourney](https://www.midjourney.com)
+- [MkDocs](https://www.mkdocs.org)
+- [Material for MkDocs](https://squidfunk.github.io/mkdocs-material)
+- [Markdown 官方教程](https://markdown.com.cn)
+- [Markdown 指南中文版](https://www.markdown.xyz)
+- [Markdown 語法說明](https://markdown.tw)
+- [Markdown Guide](https://www.markdownguide.org)
+- [Tables Generator](https://www.tablesgenerator.com/markdown_tables)
 
 ## Ranking
 
@@ -40,13 +55,6 @@
 - [ExpressLRS](https://www.expresslrs.org)
 - [Multiprotocol TX Module](https://github.com/pascallanger/DIY-Multiprotocol-TX-Module)
 
-## Other
-
-- [PagerMaid-Pyro](https://xtaolabs.com)
-- [RSSHub](https://docs.rsshub.app)
-- [VuePress](https://vuepress.vuejs.org)
-- [XPEnology](https://xpenology.com/forum)
-
 ## Web
 
 - [LifeOS](https://obsidian-life-os.netlify.app)
@@ -54,3 +62,10 @@
 - [Obsidian](https://obsidian.md)
 - [Rspack](https://www.rspack.dev)
 - [Rspress](https://rspress.dev)
+
+## Other
+
+- [PagerMaid-Pyro](https://xtaolabs.com)
+- [RSSHub](https://docs.rsshub.app)
+- [VuePress](https://vuepress.vuejs.org)
+- [XPEnology](https://xpenology.com/forum)

@@ -1,7 +1,5 @@
 - [EarTrumpet](https://eartrumpet.app)
 - [obs-websocket](https://github.com/obsproject/obs-websocket)
-- [WinDbg](https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger)
-- [WinSetView](https://github.com/LesFerch/WinSetView)
 
 ## Android
 
@@ -88,3 +86,8 @@
 - [Geek Uninstaller](https://geekuninstaller.com)
 - [Revo Uninstaller](https://www.revouninstaller.com)
 - [Uninstalr](https://uninstalr.com)
+
+## Windows Tools
+
+- [WinDbg](https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger)
+- [WinSetView](https://github.com/LesFerch/WinSetView)
