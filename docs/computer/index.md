@@ -6,6 +6,7 @@
 - [JustDeleteMe](https://justdeleteme.xyz)
 - [Open Source Alternative To](https://www.opensourcealternative.to)
 - [Personal Data Leak Checker](https://cybernews.com/personal-data-leak-check)
+- [Privacy Guides](https://www.privacyguides.org)
 - [W3Techs](https://w3techs.com)
 
 ## AI

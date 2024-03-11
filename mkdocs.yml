@@ -12,6 +12,7 @@ theme:
   name: material
   language: zh-TW
   features:
+    - content.code.copy
     - navigation.expand
     - navigation.footer
     - navigation.indexes
@@ -76,8 +77,7 @@ nav:
       - Lether Armor: game/albion_online/ao_leather_armor.md
       - Plate Armor: game/albion_online/ao_plate_armor.md
       - Cape: game/albion_online/ao_cape.md
-      - AVA10: game/albion_online/ava10.md
-      - AVA20: game/albion_online/ava20.md
+      - AVA: game/albion_online/ava.md
       - ZVZ: game/albion_online/zvz.md
     - The Elder Scrolls Online: game/the_elder_scrolls_online.md
     - Game Site: game/game.md

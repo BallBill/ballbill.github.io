@@ -1,3 +1,4 @@
+- [docker-mailserver](https://docker-mailserver.github.io/docker-mailserver/edge)
 - [EarTrumpet](https://eartrumpet.app)
 - [obs-websocket](https://github.com/obsproject/obs-websocket)
 
@@ -14,6 +15,10 @@
 - [SafeCantonese AI](https://safecantonese.ai)
 - [Universal Android Debloater GUI](https://github.com/0x192/universal-android-debloater)
 - [Xiaomi.eu](https://xiaomi.eu/community)
+
+## Docker
+
+- [Portainer](https://www.portainer.io)
 
 ## Download Manager
 

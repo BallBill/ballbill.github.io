@@ -44,6 +44,7 @@
 
 - [Cults](https://cults3d.com)
 - [Gridfinity](https://gridfinity.xyz)
+- [Lithophane Makers](https://lithophanemaker.com/index.html)
 - [MakerWorld](https://makerworld.com)
 - [MyMiniFactory](https://www.myminifactory.com)
 - [Printables](https://www.printables.com)
