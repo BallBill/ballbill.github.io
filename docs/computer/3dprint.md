@@ -36,6 +36,7 @@
 ## Guide
 
 - [3DPrintBeginner](https://3dprintbeginner.com)
+- [Aurora Tech Channel](https://auroratechchannel.com)
 - [ChipCE](https://gist.github.com/ChipCE)
 - [Ellis’ Print Tuning Guide](https://ellis3dp.com/Print-Tuning-Guide)
 - [Teaching Tech 3D Printer Site](https://teachingtechyt.github.io/index.html)
@@ -49,3 +50,5 @@
 - [MyMiniFactory](https://www.myminifactory.com)
 - [Printables](https://www.printables.com)
 - [Thingiverse](https://www.thingiverse.com)
+- [THANGS](https://thangs.com)
+- [Multiboard](https://www.multiboard.io)

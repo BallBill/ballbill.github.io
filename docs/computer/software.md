@@ -1,6 +1,14 @@
 - [docker-mailserver](https://docker-mailserver.github.io/docker-mailserver/edge)
 - [EarTrumpet](https://eartrumpet.app)
 - [obs-websocket](https://github.com/obsproject/obs-websocket)
+- [Proxmox VE Helper-Scripts](https://helper-scripts.com)
+- [SelfPrivacy](https://selfprivacy.org)
+
+## Adblock
+
+- [anti-AD](https://anti-ad.net)
+- [iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV)
+- [SponsorBlock](https://sponsor.ajay.app)
 
 ## Android
 
@@ -13,6 +21,7 @@
 - [Pixelify](https://github.com/Kingsman44/Pixelify)
 - [ReVanced](https://revanced.app)
 - [SafeCantonese AI](https://safecantonese.ai)
+- [SmartTube](https://github.com/yuliskov/SmartTube)
 - [Universal Android Debloater GUI](https://github.com/0x192/universal-android-debloater)
 - [Xiaomi.eu](https://xiaomi.eu/community)
 
@@ -48,6 +57,7 @@
 
 ## Media Player
 
+- [a4kSubtitles](https://a4k-openproject.github.io/a4kSubtitles)
 - [Media Player Classic - BE](https://sourceforge.net/projects/mpcbe)
 - [Media Player Classic - Home Cinema](https://github.com/clsid2/mpc-hc)
 - [SmartTube](https://github.com/yuliskov/SmartTube)
