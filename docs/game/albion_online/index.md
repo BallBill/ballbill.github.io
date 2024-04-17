@@ -6,6 +6,8 @@
 * [Albion Killboard](https://kill-board.com/battles)
 * [Albion Online Loot Logger](https://matheus.sampaio.us/ao-loot-logger-viewer)
 * [Albion Online Statistics Analysis](https://triky313.github.io/AlbionOnline-StatisticsAnalysis)
+* [Albionbb East](https://east.albionbb.com)
+* [Albionbb West](https://albionbb.com)
 * [East Ganker](https://eastganker.com)
 * [Murder Ledger](https://murderledger.com)
 

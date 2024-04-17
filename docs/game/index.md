@@ -5,6 +5,7 @@
 
 ## Content Updates
 
+![Foundations](https://assets.albiononline.com/uploads/media/default/media/03f4ae95f6a2ad7ced5ea3386e70dd403b3a4276.jpeg)
 ![Crystal Raiders](https://assets.albiononline.com/uploads/media/default/media/1fb8433ea0a93176e178570da0c498c0dbc59bd2.jpeg)
 ![Wild Blood](https://assets.albiononline.com/uploads/media/default/media/523f2fb3403b9752b11744b6ad0ba9097ab9c110.jpeg)
 ![Beyond the Veil](https://assets.albiononline.com/uploads/media/default/media/5653c97a29e53e3710596e55bee15b42a3d5c79c.jpeg)

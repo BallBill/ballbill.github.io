@@ -1,5 +1,7 @@
 # NOTHING
 
+- [Worldwide IQ Test](https://www.worldwide-iq-test.com)
+- [香港自殺報道資料庫](https://hkspd.siuyeong.com)
 - [聞庫](https://collection.news)
 
 ## ACG
