@@ -66,9 +66,11 @@
 ## Router
 
 - [adblock-lean](https://forum.openwrt.org/t/adblock-lean-set-up-adblock-using-dnsmasq-blocklist/157076) / [:material-github:](https://github.com/lynxthecat/adblock-lean)
+- [Breed](https://blog.hackpascal.net) / [Forum](https://www.right.com.cn/forum/thread-161906-1-1.html)
+- [Diversion](https://diversion.ch)
 - [ImmortalWrt](https://downloads.immortalwrt.org) / [ImmortalWrt Firmware Selector](https://firmware-selector.immortalwrt.org)
 - [OpenWrt](https://openwrt.org) / [OpenWrt Firmware Selector](https://firmware-selector.openwrt.org)
-- [Padavan](https://opt.cn2qq.com)
+- [Padavan](https://opt.cn2qq.com) / [Forum](https://www.right.com.cn/forum/thread-161324-1-1.html)
 - [SmartDNS](https://pymumu.github.io/smartdns/)
 - [stangri’s OpenWrt Packages Documentation](https://docs.openwrt.melmac.net)
 - [X-Wrt](https://x-wrt.com)
