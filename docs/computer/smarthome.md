@@ -15,5 +15,6 @@
 
 ### Other
 
+- [Scrypted](https://www.scrypted.app)
 - [Tasmota](https://tasmota.github.io/docs)
 - [WLED](https://kno.wled.ge)

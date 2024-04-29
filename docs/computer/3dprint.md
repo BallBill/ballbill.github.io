@@ -18,8 +18,8 @@
 
 - [Fluidd](https://docs.fluidd.xyz)
 - [Kiauh](https://github.com/dw-0/kiauh)
-- [Klipper-Adaptive-Meshing-Purging](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging)
 - [Klipper](https://www.klipper3d.org)
+- [Klipper-Adaptive-Meshing-Purging](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging)
 - [Mainsail](https://docs.mainsail.xyz)
 - [moonraker-telegram-bot](https://github.com/nlef/moonraker-telegram-bot)
 - [OctoPrint](https://octoprint.org)

@@ -31,6 +31,7 @@
 
 ## Download Manager
 
+- [Gopeed](https://gopeed.com)
 - [JDownloader](https://jdownloader.org)
 - [Neat Download Manager](https://www.neatdownloadmanager.com/index.php/en)
 - [qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition)
@@ -108,3 +109,8 @@
 
 - [WinDbg](https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger)
 - [WinSetView](https://github.com/LesFerch/WinSetView)
+
+## Web Scanner
+
+- [Ingredients](https://ingredients.tech)
+- [Wappalyzer](https://www.wappalyzer.com)

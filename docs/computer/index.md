@@ -18,12 +18,11 @@
 ## Blog
 
 - [科技爱好者周刊](https://www.ruanyifeng.com/blog) / [:material-github:](https://github.com/ruanyf/weekly)
-- [congcong0806](https://congcong0806.github.io)
 - [HelloGitHub](https://hellogithub.com) / [:material-github:](https://github.com/521xueweihan/HelloGitHub)
-- [奶油之家](https://naiyous.com)
 
 ## GitHub
 
+- [ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS)
 - [Awesome-Selfhosted](https://awesome-selfhosted.net)
 - [datarhei Restreamer](https://docs.datarhei.com/restreamer)
 - [SVG logos](https://svgl.app)
@@ -50,6 +49,7 @@
 - [Github Ranking](https://evanli.github.io/Github-Ranking)
 - [Gitstar Ranking](https://gitstar-ranking.com)
 - [SimilarWeb](https://www.similarweb.com)
+- [TIOBE](https://www.tiobe.com)
 
 ## RC
 
