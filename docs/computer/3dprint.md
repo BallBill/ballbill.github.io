@@ -28,7 +28,6 @@
 
 ## Hardware
 
-- [Prusa-Firmware-Buddy](https://github.com/prusa3d/Prusa-Firmware-Buddy)
 - [The E34M1 Toolhead](https://jon-harper.github.io/E34M1)
 
 ## Extruder
@@ -61,3 +60,8 @@
 - [Image to Lithophane](https://3dp.rocks/lithophane)
 - [ItsLitho](https://tool.itslitho.com/CreateModel)
 - [Lithophane Makers](https://lithophanemaker.com/index.html)
+
+## Prusa Mini Firmware
+
+- [Prusa-Firmware-Buddy](https://github.com/prusa3d/Prusa-Firmware-Buddy)
+- [Snake Mini - Unofficial Firmware for the Prusa 32 Bit Boards](https://github.com/Snake-Edition/P32-FW)
