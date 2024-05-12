@@ -36,11 +36,21 @@
 - [LSPosed](https://lsposed.org)
 - [Magisk](https://topjohnwu.github.io/Magisk/) / [:material-github:](https://github.com/topjohnwu/Magisk)
 - [PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix)
+- [systemless hosts KernelSU module](https://github.com/symbuzzer/systemless-hosts-KernelSU-module)
 - [Zygisk Next](https://github.com/Dr-TSNG/ZygiskNext)
+
+## Discord
+
+- [BetterDiscord](https://betterdiscord.app)
+- [Replugged](https://replugged.dev)
+- [Return ShowHiddenChannels](https://github.com/JustOptimize/return-ShowHiddenChannels)
+- [Vencord](https://vencord.dev)
 
 ## Docker
 
+- [Diun](https://crazymax.dev/diun)
 - [Portainer](https://www.portainer.io)
+- [Watchtower](https://containrrr.dev/watchtower)
 
 ## Download Manager
 
