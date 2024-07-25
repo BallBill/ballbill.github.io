@@ -1,5 +1,6 @@
 - [docker-mailserver](https://docker-mailserver.github.io/docker-mailserver/edge)
 - [EarTrumpet](https://eartrumpet.app)
+- [G-Helper](https://seerge.github.io/g-helper)
 - [obs-websocket](https://github.com/obsproject/obs-websocket)
 - [Proxmox VE Helper-Scripts](https://helper-scripts.com)
 - [SelfPrivacy](https://selfprivacy.org)
