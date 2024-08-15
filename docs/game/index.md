@@ -24,6 +24,7 @@
 ![Launch](https://assets.albiononline.com/uploads/media/default/media/7907b5e030c8dd81de15f1827c1082e07f141eb0.jpeg)
 ![Hector](https://assets.albiononline.com/uploads/media/default/media/581791c82bfd53c1f7b3726d1401a35c0f1915ab.jpeg)
 ![Galahad](https://assets.albiononline.com/uploads/media/default/media/2ffb4a767e9202ed93572dde213d46410f84755e.jpeg)
+![Faye](https://assets.albiononline.com/uploads/media/default/media/e05b8baf6bbcda4b81dbbf9b214ed071664a716e.jpeg)
 
 ## Cities, Dungeons, Realms, and Hideouts
 
