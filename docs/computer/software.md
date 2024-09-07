@@ -91,6 +91,7 @@
 ## Router
 
 - [adblock-lean](https://forum.openwrt.org/t/adblock-lean-set-up-adblock-using-dnsmasq-blocklist/157076) / [:material-github:](https://github.com/lynxthecat/adblock-lean)
+- [Asuswrt-Merlin](https://www.asuswrt-merlin.net)
 - [Breed](https://blog.hackpascal.net) / [Forum](https://www.right.com.cn/forum/thread-161906-1-1.html)
 - [Diversion](https://diversion.ch)
 - [ImmortalWrt](https://downloads.immortalwrt.org) / [ImmortalWrt Firmware Selector](https://firmware-selector.immortalwrt.org)
