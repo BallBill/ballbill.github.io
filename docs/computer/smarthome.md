@@ -1,4 +1,4 @@
-### Home Assistant
+## Home Assistant
 
 - [Home Assistant](https://www.home-assistant.io)
 - [Home Assistant Supervised](https://github.com/home-assistant/supervised-installer)
@@ -8,12 +8,12 @@
 - [Hass.io Addons repository by Erik73](https://github.com/erik73/hassio-addons)
 - [JDeath Addons](https://github.com/jdeath/homeassistant-addons)
 
-### HomeKit
+## HomeKit
 
 - [HAA - Home Accessory Architect](https://github.com/RavenSystem/esp-homekit-devices) / [converter-to-merlin](https://converter-to-merlin.netlify.app)
 - [Homebridge](https://homebridge.io)
 
-### Other
+## Other
 
 - [Scrypted](https://www.scrypted.app)
 - [Tasmota](https://tasmota.github.io/docs)

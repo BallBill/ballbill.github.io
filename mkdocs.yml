@@ -82,6 +82,7 @@ nav:
   - COMPUTER:
     - computer/index.md
     - 3D Print: computer/3dprint.md
+    - Keyboard: computer/keyboard.md
     - Smart Home: computer/smarthome.md
     - Software: computer/software.md
     - VPN: computer/vpn.md
