@@ -3,6 +3,7 @@
 - [G-Helper](https://seerge.github.io/g-helper)
 - [obs-websocket](https://github.com/obsproject/obs-websocket)
 - [Proxmox VE Helper-Scripts](https://helper-scripts.com)
+- [RSS to Telegram Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot)
 - [SelfPrivacy](https://selfprivacy.org)
 
 ## Adblock
@@ -10,6 +11,7 @@
 - [anti-AD](https://anti-ad.net)
 - [iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV)
 - [SponsorBlock](https://sponsor.ajay.app)
+- [StevenBlock](https://github.com/mikropsoft/StevenBlock)
 
 ## Android
 
@@ -27,7 +29,7 @@
 - [Universal Android Debloater GUI](https://github.com/0x192/universal-android-debloater)
 - [Xiaomi.eu](https://xiaomi.eu/community)
 
-### Root
+## Root
 
 - [Androidacy Module Manager](https://github.com/Androidacy/MagiskModuleManager)
 - [APatch](https://github.com/bmax121/APatch)
