@@ -18,6 +18,7 @@
 ## Vito
 
 - [Catcar.info](https://www.catcar.info/mercedes/?lang=en&l=Y2xhc3M9PTN8fGNvdW50cnk9PTF8fHN0PT01MHx8c3RzPT17IjEwIjoiQXNzb3J0bWVudCBjbGFzcyIsIjIwIjoiVmFuLUV1cm9wZSIsIjUwIjoiNDQ3LjcwMyAgICAifXx8Y2F0YWxvZz09RDgwICAgfHxjYXRhbG9nMT09NjBWICAgfHx0eXBlPT02NTF8fHR5cGUxPT00NDd8fHN1Ym0xPT05NTB8fHN1Ym0xMT09NzAzfHxhZ2d0eXBlPT1NfHxhZ2d0eXBlMT09Rkd8fG1vZGVsPT02NTEuOTUwICAgIHx8bW9kZWwxPT00NDcuNzAzICAgIHx8ZGV0YWlsZ3JwbnVtPT0wMXx8c3ViZ3JwPT0wMTJ8fHBhZ2U3MD09MQ%3D%3D)
+
 [![A6510902952](https://cdn.spareto.com/variants/images/001/586/583/small/converted-20230217-3231892-1yzqfia.jpg?1676630955)](https://spareto.com/oe/6510902952)
 [![A6511800109](https://cdn.spareto.com/variants/images/001/242/339/small/converted-20230217-3231892-1h9ap3c.jpg?1676630523)](https://spareto.com/oe/6511800109)
 [![A6510900051](https://cdn.spareto.com/variants/images/001/581/059/small/converted-20230217-3231892-1m1cdm8.jpg?1676630544)](https://spareto.com/oe/6510900051)
