@@ -7,11 +7,15 @@
 
 ## ACG
 
+- [ACG.RIP](https://acg.rip)
 - [Bangumi](https://www.bangumi.app)
 - [IACG](https://iacg.rip)
+- [Nyaa](https://nyaa.si)
+- [末日動漫資源庫](https://share.acgnx.se)
 - [冷番补完字幕组](https://coolfanssub.gitbook.io/lfbw-subs)
 - [诸神字幕组](https://subs.kamigami.org)
 - [動漫花園資源網](https://dmhy.org)
+- [萌番組](https://bangumi.moe)
 - [漫游字幕组](https://bbs.popgo.org/bbs)
 
 ## Subtitle
