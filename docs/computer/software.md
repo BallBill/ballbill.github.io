@@ -117,6 +117,11 @@
 - [Rufus](https://rufus.ie)
 - [SD Memory Card Formatter](https://www.sdcard.org/downloads/formatter)
 
+## Self Host
+
+- [Awesome-Selfhosted](https://awesome-selfhosted.net)
+- [Ultimate Self-Hosted Software List](https://hostedsoftware.org)
+
 ## Software Management
 
 - [Chocolatey](https://chocolatey.org)

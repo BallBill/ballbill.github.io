@@ -23,7 +23,6 @@
 ## GitHub
 
 - [ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS)
-- [Awesome-Selfhosted](https://awesome-selfhosted.net)
 - [datarhei Restreamer](https://docs.datarhei.com/restreamer)
 - [SVG logos](https://svgl.app)
 - [Twitch-Channel-Points-Miner-v2](https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2)
@@ -34,8 +33,6 @@
 
 ## Markdown
 
-- [MkDocs](https://www.mkdocs.org)
-- [Material for MkDocs](https://squidfunk.github.io/mkdocs-material)
 - [Markdown 官方教程](https://markdown.com.cn)
 - [Markdown 指南中文版](https://www.markdown.xyz)
 - [Markdown 語法說明](https://markdown.tw)
@@ -61,15 +58,17 @@
 ## Web
 
 - [LifeOS](https://obsidian-life-os.netlify.app)
+- [Material for MkDocs](https://squidfunk.github.io/mkdocs-material)
 - [Memos](https://www.usememos.com)
+- [MkDocs](https://www.mkdocs.org)
 - [Obsidian](https://obsidian.md)
 - [Rspack](https://www.rspack.dev)
 - [Rspress](https://rspress.dev)
+- [VuePress](https://vuepress.vuejs.org)
 - [WebStack](https://webstack.cc)
 
 ## Other
 
 - [PagerMaid-Pyro](https://xtaolabs.com)
 - [RSSHub](https://docs.rsshub.app)
-- [VuePress](https://vuepress.vuejs.org)
 - [XPEnology](https://xpenology.com/forum)
