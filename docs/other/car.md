@@ -53,6 +53,4 @@
 ## Other
 
 [![DPF 稀土元素還原劑](https://cdn.cybassets.com/media/W1siZiIsIjIxMzM1L3Byb2R1Y3RzLzM2NTE1OTc1LzE2OTUyNjAzNTRfMzRkMWRiYjhkMGMxODQ0ZGRkODcuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=4eb2ce391cb17d9f)](https://www.wilitashop.com/zh-TW/products/dpf-rare-earth-diesel-catalyst)
-[![WD-40 Specialist® Silicone 矽質潤滑劑](https://hello.wd40.asia/hk/wp-content/uploads/2021/01/NL-Silicone-e1611370661158.jpg)](https://hello.wd40.asia/hk)
-[![WD-40 Specialist® White Lithium Grease 白鋰潤滑脂](https://hello.wd40.asia/hk/wp-content/uploads/2021/01/NL-WLithium-e1611370571977.jpg)](https://hello.wd40.asia/hk)
 [![犀利牌 RP7 隔水除銹潤滑劑](https://i0.wp.com/selleys.com.hk/wp-content/uploads/RP7-300g.jpg?w=1200&ssl=1)](https://selleys.com.hk/product/selleys-rp7-multipurpose-lubricant)
