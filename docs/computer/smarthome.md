@@ -17,4 +17,5 @@
 
 - [Scrypted](https://www.scrypted.app)
 - [Tasmota](https://tasmota.github.io/docs)
+- [thingino](https://thingino.com)
 - [WLED](https://kno.wled.ge)
