@@ -135,8 +135,8 @@
 
 ## Uninstaller
 
+- [Bulk Crap Uninstaller](https://www.bcuninstaller.com)
 - [Geek Uninstaller](https://geekuninstaller.com)
-- [Revo Uninstaller](https://www.revouninstaller.com)
 - [Uninstalr](https://uninstalr.com)
 
 ## Windows Tools
