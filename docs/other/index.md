@@ -25,7 +25,3 @@
 - [SubHD](https://subhd.tv)
 - [字幕库](https://srtku.com)
 - [射手网(伪)](https://assrt.net)
-
-## 深圳地鐵
-
-![深圳地鐵](https://www.szmc.net/SMARTC/upload/image/20240806/1722941128776042690.jpg)
