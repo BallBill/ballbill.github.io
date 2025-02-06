@@ -77,9 +77,10 @@ nav:
     - Smart Home: computer/smarthome.md
     - Software: computer/software.md
     - VPN: computer/vpn.md
+  - CAR:
+    - car/index.md
   - OTHER:
     - other/index.md
     - Manufacturing: other/manufacturing.md
     - Japan: other/japan.md
-    - Car: other/car.md
     - Travel: other/travel.md
