@@ -1,6 +1,6 @@
 - [Brook](https://brook.app) / [:material-github:](https://github.com/txthinking/brook)
 - [docker-install-xray](https://github.com/stiluddclanward/docker-install-xray)
-- [Miles](https://1808.cf)/ [:material-github:](https://github.com/ugvf2009/Miles)
+- [Miles](https://1808.cf) / [:material-github:](https://github.com/ugvf2009/Miles)
 - [new-pac](https://github.com/Alvin9999/new-pac)
 - [Outline](https://www.getoutline.org)
 - [Project V](https://www.v2fly.org)

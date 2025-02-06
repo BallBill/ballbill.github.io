@@ -3,10 +3,12 @@
 - [Dracula Theme](https://draculatheme.com)
 - [Greasy Fork](https://greasyfork.org) / [Sleazy Fork](https://sleazyfork.org)
 - [Internet Archive](https://archive.org)
+- [IPTV](https://iptv-org.github.io) / [:material-github:](https://github.com/iptv-org/iptv)
 - [JustDeleteMe](https://justdeleteme.xyz)
 - [Open Source Alternative To](https://www.opensourcealternative.to)
 - [Personal Data Leak Checker](https://cybernews.com/personal-data-leak-check)
 - [Privacy Guides](https://www.privacyguides.org)
+- [TelegramGroup](https://tgdh.github.io) / [:material-github:](https://github.com/AZeC4/TelegramGroup)
 - [W3Techs](https://w3techs.com)
 
 ## AI
