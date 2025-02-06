@@ -79,8 +79,9 @@ nav:
     - VPN: computer/vpn.md
   - CAR:
     - car/index.md
+  - TRAVEL:
+    - travel/index.md
   - OTHER:
     - other/index.md
     - Manufacturing: other/manufacturing.md
     - Japan: other/japan.md
-    - Travel: other/travel.md
