@@ -79,6 +79,7 @@ nav:
     - VPN: computer/vpn.md
   - CAR:
     - car/index.md
+    - Vito: car/vito.md
   - TRAVEL:
     - travel/index.md
   - OTHER:
