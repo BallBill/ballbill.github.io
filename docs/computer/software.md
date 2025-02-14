@@ -9,6 +9,7 @@
 
 ## Adblock
 
+- [AdAway](https://adaway.org)
 - [anti-AD](https://anti-ad.net)
 - [iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV)
 - [SponsorBlock](https://sponsor.ajay.app)
@@ -16,7 +17,6 @@
 
 ## Android
 
-- [AdAway](https://adaway.org)
 - [Android SDK Platform-Tools](https://developer.android.com/tools/releases/platform-tools)
 - [Basic Call Recorder](https://github.com/chenxiaolong/BCR)
 - [Binary Eye](https://github.com/markusfisch/BinaryEye)
@@ -26,7 +26,6 @@
 - [ReVanced Magisk Module](https://github.com/j-hc/revanced-magisk-module)
 - [ReVanced](https://revanced.app)
 - [SafeCantonese AI](https://safecantonese.ai)
-- [SmartTube](https://github.com/yuliskov/SmartTube)
 - [Universal Android Debloater GUI](https://github.com/0x192/universal-android-debloater)
 - [Xiaomi.eu](https://xiaomi.eu/community)
 
@@ -34,8 +33,6 @@
 
 - [Androidacy Module Manager](https://github.com/Androidacy/MagiskModuleManager)
 - [APatch](https://github.com/bmax121/APatch)
-- [KernelPatch](https://github.com/bmax121/KernelPatch)
-- [KernelSU](https://kernelsu.org)
 - [Kitsune Magisk](https://huskydg.github.io/magisk-files)
 - [LSPosed](https://lsposed.org)
 - [Magisk](https://topjohnwu.github.io/Magisk/) / [:material-github:](https://github.com/topjohnwu/Magisk)
@@ -49,6 +46,7 @@
 - [Replugged](https://replugged.dev)
 - [Return ShowHiddenChannels](https://github.com/JustOptimize/return-ShowHiddenChannels)
 - [Vencord](https://vencord.dev)
+- [Vesktop](https://github.com/Vencord/Vesktop)
 
 ## Docker
 
@@ -69,6 +67,7 @@
 ## File Archiver
 
 - [7-Zip](https://www.7-zip.org)
+- [NanaZip](https://github.com/M2Team/NanaZip)
 - [PeaZip](https://peazip.github.io)
 
 ## File Sync

@@ -8,6 +8,7 @@
 ## Brand
 
 - [Carinthia](https://www.carinthia.eu/en/)
+- [Condor Outdoor](https://condoroutdoor.com)
 - [Helikon-Tex](https://www.helikon-tex.com)
 - [Patagonia](https://www.patagonia.com)
 - [Pro-Tec](https://protecbrand.com)
