@@ -1,11 +1,12 @@
-- [繁化姬](https://zhconvert.org)
 - [docker-mailserver](https://docker-mailserver.github.io/docker-mailserver/edge)
 - [EarTrumpet](https://eartrumpet.app)
 - [G-Helper](https://seerge.github.io/g-helper)
 - [obs-websocket](https://github.com/obsproject/obs-websocket)
+- [Pico Keys](https://www.picokeys.com)
 - [Proxmox VE Helper-Scripts](https://helper-scripts.com)
 - [RSS to Telegram Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot)
 - [SelfPrivacy](https://selfprivacy.org)
+- [繁化姬](https://zhconvert.org)
 
 ## Adblock
 
@@ -60,8 +61,10 @@
 - [JDownloader](https://jdownloader.org)
 - [Motrix](https://motrix.app)
 - [Neat Download Manager](https://www.neatdownloadmanager.com/index.php/en)
+- [PeerBanHelper](https://docs.pbh-btn.com)
 - [qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition)
 - [qBittorrent](https://www.qbittorrent.org)
+- [qBittorrent-ClientBlocker](https://github.com/Simple-Tracker/qBittorrent-ClientBlocker)
 - [Xtreme Download Manager](https://xtremedownloadmanager.com)
 
 ## File Archiver

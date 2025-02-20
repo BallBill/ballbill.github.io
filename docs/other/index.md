@@ -4,6 +4,7 @@
 - [小雅 Alist](https://alist.xiaoya.pro)
 - [天行足跡 Skywalker's footprints](http://www.skywalker.autozine.org)
 - [香港自殺報道資料庫](https://hkspd.siuyeong.com)
+- [深圳地鐵線路圖](https://www.mtrsz.com.cn/frontend/default/src/channel/line_img.html)
 - [聞庫](https://collection.news)
 
 ## ACG

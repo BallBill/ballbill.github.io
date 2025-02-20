@@ -13,14 +13,15 @@
 
 ## AI
 
-- [今天比昨天厲害](https://better-than-yesterday.beehiiv.com)
 - [Jamstack](https://jamstack.org)
 - [Midjourney](https://www.midjourney.com)
+- [今天比昨天厲害](https://better-than-yesterday.beehiiv.com)
 
 ## Blog
 
-- [科技爱好者周刊](https://www.ruanyifeng.com/blog) / [:material-github:](https://github.com/ruanyf/weekly)
 - [HelloGitHub](https://hellogithub.com) / [:material-github:](https://github.com/521xueweihan/HelloGitHub)
+- [Lyc8503's blog](https://blog.lyc8503.net)
+- [科技爱好者周刊](https://www.ruanyifeng.com/blog) / [:material-github:](https://github.com/ruanyf/weekly)
 
 ## GitHub
 
@@ -38,10 +39,10 @@
 
 ## Markdown
 
+- [Markdown Guide](https://www.markdownguide.org)
 - [Markdown 官方教程](https://markdown.com.cn)
 - [Markdown 指南中文版](https://www.markdown.xyz)
 - [Markdown 語法說明](https://markdown.tw)
-- [Markdown Guide](https://www.markdownguide.org)
 - [Tables Generator](https://www.tablesgenerator.com/markdown_tables)
 
 ## Ranking
