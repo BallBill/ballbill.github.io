@@ -60,12 +60,10 @@
 - [Gopeed](https://gopeed.com)
 - [JDownloader](https://jdownloader.org)
 - [Motrix](https://motrix.app)
-- [Neat Download Manager](https://www.neatdownloadmanager.com/index.php/en)
 - [PeerBanHelper](https://docs.pbh-btn.com)
 - [qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition)
 - [qBittorrent](https://www.qbittorrent.org)
 - [qBittorrent-ClientBlocker](https://github.com/Simple-Tracker/qBittorrent-ClientBlocker)
-- [Xtreme Download Manager](https://xtremedownloadmanager.com)
 
 ## File Archiver
 
