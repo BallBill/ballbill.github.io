@@ -7,6 +7,7 @@
 - [JustDeleteMe](https://justdeleteme.xyz)
 - [Open Source Alternative To](https://www.opensourcealternative.to)
 - [Personal Data Leak Checker](https://cybernews.com/personal-data-leak-check)
+- [Pico Keys](https://www.picokeys.com)
 - [Privacy Guides](https://www.privacyguides.org)
 - [TelegramGroup](https://tgdh.github.io) / [:material-github:](https://github.com/AZeC4/TelegramGroup)
 - [W3Techs](https://w3techs.com)
