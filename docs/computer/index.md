@@ -2,6 +2,7 @@
 
 - [Dracula Theme](https://draculatheme.com)
 - [Greasy Fork](https://greasyfork.org) / [Sleazy Fork](https://sleazyfork.org)
+- [iFixit: The Free Repair Manual](https://www.ifixit.com)
 - [Internet Archive](https://archive.org)
 - [IPTV](https://iptv-org.github.io) / [:material-github:](https://github.com/iptv-org/iptv)
 - [JustDeleteMe](https://justdeleteme.xyz)
@@ -9,6 +10,7 @@
 - [Personal Data Leak Checker](https://cybernews.com/personal-data-leak-check)
 - [Pico Keys](https://www.picokeys.com)
 - [Privacy Guides](https://www.privacyguides.org)
+- [RP2350-Zero](https://www.waveshare.net/wiki/RP2350-Zero)
 - [TelegramGroup](https://tgdh.github.io) / [:material-github:](https://github.com/AZeC4/TelegramGroup)
 - [W3Techs](https://w3techs.com)
 
