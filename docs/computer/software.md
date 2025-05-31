@@ -16,31 +16,6 @@
 - [SponsorBlock](https://sponsor.ajay.app)
 - [StevenBlock](https://github.com/mikropsoft/StevenBlock)
 
-## Android
-
-- [Android SDK Platform-Tools](https://developer.android.com/tools/releases/platform-tools)
-- [Basic Call Recorder](https://github.com/chenxiaolong/BCR)
-- [Binary Eye](https://github.com/markusfisch/BinaryEye)
-- [Headuck](https://blog.headuck.com)
-- [Pixelify](https://github.com/Kingsman44/Pixelify)
-- [ReVanced eXtended](https://github.com/NoName-exe/revanced-extended)
-- [ReVanced Magisk Module](https://github.com/j-hc/revanced-magisk-module)
-- [ReVanced](https://revanced.app)
-- [SafeCantonese AI](https://safecantonese.ai)
-- [Universal Android Debloater GUI](https://github.com/0x192/universal-android-debloater)
-- [Xiaomi.eu](https://xiaomi.eu/community)
-
-## Root
-
-- [Androidacy Module Manager](https://github.com/Androidacy/MagiskModuleManager)
-- [APatch](https://github.com/bmax121/APatch)
-- [Kitsune Magisk](https://huskydg.github.io/magisk-files)
-- [LSPosed](https://lsposed.org)
-- [Magisk](https://topjohnwu.github.io/Magisk/) / [:material-github:](https://github.com/topjohnwu/Magisk)
-- [PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix)
-- [systemless hosts KernelSU module](https://github.com/symbuzzer/systemless-hosts-KernelSU-module)
-- [Zygisk Next](https://github.com/Dr-TSNG/ZygiskNext)
-
 ## Discord
 
 - [BetterDiscord](https://betterdiscord.app)
@@ -141,6 +116,7 @@
 
 ## Windows Tools
 
+- [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher)
 - [WinDbg](https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger)
 - [WinSetView](https://github.com/LesFerch/WinSetView)
 - [WinUtil](https://github.com/ChrisTitusTech/winutil)

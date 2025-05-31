@@ -37,3 +37,7 @@
 - [SubHD](https://subhd.tv)
 - [字幕库](https://srtku.com)
 - [射手网(伪)](https://assrt.net)
+
+## Others
+
+- USER_495959 / 68379855
