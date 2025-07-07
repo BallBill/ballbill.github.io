@@ -14,7 +14,6 @@
 
 ## Other
 
-- [娛樂計程車](https://www.entertainment14.net/blog)
 - [CrackWatch](https://www.reddit.com/r/CrackWatch)
 - [DODI Repacks](https://dodi-repacks.site)
 - [ElAmigos](https://elamigos.site)
@@ -23,4 +22,6 @@
 - [Minecraft Classic](https://classic.minecraft.net)
 - [MonsterHunterSpoofing](https://www.reddit.com/r/MonsterHunterSpoofing)
 - [Ova Games](https://www.ovagames.com)
+- [Pixl.js (An emulator for Amiibo!)](https://github.com/solosky/pixl.js)
 - [SteamDB](https://steamdb.info)
+- [娛樂計程車](https://www.entertainment14.net/blog)

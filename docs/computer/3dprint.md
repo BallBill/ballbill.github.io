@@ -28,6 +28,7 @@
 
 ## Hardware
 
+- [Armored Turtle](https://www.armoredturtle.xyz)
 - [The E34M1 Toolhead](https://jon-harper.github.io/E34M1)
 
 ## Extruder
@@ -38,6 +39,7 @@
 
 ## Guide
 
+- [3DP Info](https://3dp-info.fyi)
 - [3DPrintBeginner](https://3dprintbeginner.com)
 - [Aurora Tech Channel](https://auroratechchannel.com)
 - [ChipCE](https://gist.github.com/ChipCE)

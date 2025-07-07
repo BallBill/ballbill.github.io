@@ -25,6 +25,12 @@
 - [萌番組](https://bangumi.moe)
 - [漫游字幕组](https://bbs.popgo.org/bbs)
 
+## Drug
+
+- 1-PRO Lactobacillus plantarum 299v
+- Colestop Tablets 醇為降™ 10mg
+- Esomeprazole Actavis 40mg (teva)
+
 ## Movie
 
 - [IMDb](https://www.imdb.com)
