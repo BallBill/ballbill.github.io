@@ -83,6 +83,9 @@ nav:
     - Vito: car/vito.md
   - TRAVEL:
     - travel/index.md
+    - Japan: travel/japan.md
+    - Thailand: travel/thailand.md
+    - China: travel/china.md
   - OTHER:
     - other/index.md
     - Manufacturing: other/manufacturing.md

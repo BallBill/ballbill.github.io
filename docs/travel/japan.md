@@ -1,0 +1,8 @@
+- [Prepaid SIM for Travel (SoftBank)](https://www.softbank.jp/en/mobile/special/prepaid-sim-for-travel/zh-tw)
+- [Q's MALL](https://qs-mall.jp)
+- [RYDE PASS](https://pass.ryde-go.com)
+- [由布院之森](https://www.jrkyushu.co.jp/chinese/train/yufuin_no_mori.html)
+- [阪堺電車](https://www.hankai.co.jp)
+- [海遊館](https://www.kaiyukan.com)
+- [湯布院號](https://www.highwaybus.com/gp/info/lineDetail?lineGroupNo=14&lineId=482)
+- [日本國家旅遊局](https://www.japan.travel/hk/hk)
