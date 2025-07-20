@@ -32,8 +32,13 @@
 - [ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm)
 - [datarhei Restreamer](https://docs.datarhei.com/restreamer)
 - [SVG logos](https://svgl.app)
+- [Trending Repositories](https://trendingrepos.glup3.dev)
 - [Twitch-Channel-Points-Miner-v2](https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2)
 - [TwitchDropsMiner](https://github.com/DevilXD/TwitchDropsMiner)
+
+## Hardware
+
+- [SPL's PSU Tier List](https://docs.google.com/spreadsheets/d/1akCHL7Vhzk_EhrpIGkz8zTEvYfLDcaSpZRB6Xt6JWkc/edit?usp=sharing)
 
 ## Linux
 
