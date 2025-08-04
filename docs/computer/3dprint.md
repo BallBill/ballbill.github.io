@@ -65,5 +65,5 @@
 
 ## Prusa Mini Firmware
 
-- [Prusa-Firmware-Buddy](https://github.com/prusa3d/Prusa-Firmware-Buddy)
+- [Prusa-Firmware](https://github.com/prusa3d/Prusa-Firmware)
 - [Snake Mini - Unofficial Firmware for the Prusa 32 Bit Boards](https://github.com/Snake-Edition/P32-FW)
