@@ -14,7 +14,6 @@
 - [anti-AD](https://anti-ad.net)
 - [iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV)
 - [SponsorBlock](https://sponsor.ajay.app)
-- [StevenBlock](https://github.com/mikropsoft/StevenBlock)
 
 ## Discord
 

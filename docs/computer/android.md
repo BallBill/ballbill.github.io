@@ -7,6 +7,7 @@
 - [ReVanced Magisk Module](https://github.com/j-hc/revanced-magisk-module)
 - [ReVanced](https://revanced.app)
 - [SafeCantonese AI](https://safecantonese.ai)
+- [StevenBlock](https://github.com/mikropsoft/StevenBlock)
 - [Universal Android Debloater GUI](https://github.com/0x192/universal-android-debloater)
 - [Xiaomi.eu](https://xiaomi.eu/community)
 
@@ -14,9 +15,8 @@
 
 - [Androidacy Module Manager](https://github.com/Androidacy/MagiskModuleManager)
 - [APatch](https://github.com/bmax121/APatch)
-- [Kitsune Magisk](https://huskydg.github.io/magisk-files)
 - [LSPosed](https://lsposed.org)
 - [Magisk](https://topjohnwu.github.io/Magisk/) / [:material-github:](https://github.com/topjohnwu/Magisk)
-- [PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix)
-- [systemless hosts KernelSU module](https://github.com/symbuzzer/systemless-hosts-KernelSU-module)
+- [PlayIntegrityFork](https://github.com/osm0sis/PlayIntegrityFork)
+- [Tricky Store](https://github.com/5ec1cff/TrickyStore)
 - [Zygisk Next](https://github.com/Dr-TSNG/ZygiskNext)
