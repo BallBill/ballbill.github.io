@@ -11,7 +11,7 @@
 - [Pico Keys](https://www.picokeys.com)
 - [Privacy Guides](https://www.privacyguides.org)
 - [RP2350-Zero](https://www.waveshare.net/wiki/RP2350-Zero)
-- [TelegramGroup](https://tgdh.github.io) / [:material-github:](https://github.com/AZeC4/TelegramGroup)
+- [TelegramGroup](https://github.com/AZeC4/TelegramGroup)
 - [W3Techs](https://w3techs.com)
 
 ## AI
@@ -32,7 +32,6 @@
 - [ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm)
 - [datarhei Restreamer](https://docs.datarhei.com/restreamer)
 - [SVG logos](https://svgl.app)
-- [Trending Repositories](https://trendingrepos.glup3.dev)
 - [Twitch-Channel-Points-Miner-v2](https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2)
 - [TwitchDropsMiner](https://github.com/DevilXD/TwitchDropsMiner)
 
@@ -61,6 +60,7 @@
 - [Gitstar Ranking](https://gitstar-ranking.com)
 - [SimilarWeb](https://www.similarweb.com)
 - [TIOBE](https://www.tiobe.com)
+- [Trending Repositories](https://trendingrepos.glup3.dev)
 
 ## RC
 
@@ -71,15 +71,10 @@
 
 ## Web
 
-- [LifeOS](https://obsidian-life-os.netlify.app)
 - [Material for MkDocs](https://squidfunk.github.io/mkdocs-material)
 - [Memos](https://www.usememos.com)
 - [MkDocs](https://www.mkdocs.org)
-- [Obsidian](https://obsidian.md)
-- [Rspack](https://www.rspack.dev)
-- [Rspress](https://rspress.dev)
 - [VuePress](https://vuepress.vuejs.org)
-- [WebStack](https://webstack.cc)
 
 ## Other
 
