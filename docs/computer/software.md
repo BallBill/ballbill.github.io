@@ -79,13 +79,6 @@
 - [stangri’s OpenWrt Packages Documentation](https://docs.openwrt.melmac.net)
 - [X-Wrt](https://x-wrt.com)
 
-## Screen Annotation
-
-- [Epic Pen](https://epicpen.com)
-- [ppInk](https://github.com/pubpub-zz/ppInk)
-- [gInk](https://github.com/geovens/gInk)
-- [ZoomIt](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit)
-
 ## SD Cards & USB Drives Tools
 
 - [Etcher](https://etcher.io)

@@ -19,4 +19,5 @@
 - [Magisk](https://topjohnwu.github.io/Magisk/) / [:material-github:](https://github.com/topjohnwu/Magisk)
 - [PlayIntegrityFork](https://github.com/osm0sis/PlayIntegrityFork)
 - [Tricky Store](https://github.com/5ec1cff/TrickyStore)
+- [Zygisk Assistant](https://github.com/snake-4/Zygisk-Assistant)
 - [Zygisk Next](https://github.com/Dr-TSNG/ZygiskNext)
