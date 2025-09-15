@@ -6,6 +6,7 @@
 - [Proxmox VE Helper-Scripts](https://helper-scripts.com)
 - [RSS to Telegram Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot)
 - [SelfPrivacy](https://selfprivacy.org)
+- [Yubico Authenticator](https://www.yubico.com/products/yubico-authenticator)
 - [繁化姬](https://zhconvert.org)
 
 ## Adblock

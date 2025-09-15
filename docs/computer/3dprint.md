@@ -17,9 +17,10 @@
 ## Software
 
 - [Fluidd](https://docs.fluidd.xyz)
+- [Happy Hare](https://github.com/moggieuk/Happy-Hare)
 - [Kiauh](https://github.com/dw-0/kiauh)
-- [Klipper](https://www.klipper3d.org)
 - [Klipper-Adaptive-Meshing-Purging](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging)
+- [Klipper](https://www.klipper3d.org)
 - [Mainsail](https://docs.mainsail.xyz)
 - [moonraker-telegram-bot](https://github.com/nlef/moonraker-telegram-bot)
 - [OctoPrint](https://octoprint.org)
@@ -29,6 +30,7 @@
 ## Hardware
 
 - [Armored Turtle](https://www.armoredturtle.xyz)
+- [Pico MMU](https://github.com/lhndo/LH-Stinger/wiki/Pico-MMU)
 - [The E34M1 Toolhead](https://jon-harper.github.io/E34M1)
 
 ## Extruder
