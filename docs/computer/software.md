@@ -32,9 +32,7 @@
 
 ## Download Manager
 
-- [Gopeed](https://gopeed.com)
 - [JDownloader](https://jdownloader.org)
-- [Motrix](https://motrix.app)
 - [PeerBanHelper](https://docs.pbh-btn.com)
 - [qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition)
 - [qBittorrent](https://www.qbittorrent.org)
@@ -43,8 +41,6 @@
 ## File Archiver
 
 - [7-Zip](https://www.7-zip.org)
-- [NanaZip](https://github.com/M2Team/NanaZip)
-- [PeaZip](https://peazip.github.io)
 
 ## File Sync
 
