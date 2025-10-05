@@ -30,6 +30,8 @@
 ## Hardware
 
 - [Armored Turtle](https://www.armoredturtle.xyz)
+- [Awesome-Extruders](https://github.com/SartorialGrunt0/Awesome-Extruders)
+- [Awesome-Toolheads](https://github.com/SartorialGrunt0/Awesome-Toolheads)
 - [Pico MMU](https://github.com/lhndo/LH-Stinger/wiki/Pico-MMU)
 - [The E34M1 Toolhead](https://jon-harper.github.io/E34M1)
 
@@ -48,6 +50,12 @@
 - [Ellis’ Print Tuning Guide](https://ellis3dp.com/Print-Tuning-Guide)
 - [Teaching Tech 3D Printer Site](https://teachingtechyt.github.io/index.html)
 
+## Lithophane
+
+- [Image to Lithophane](https://3dp.rocks/lithophane)
+- [ItsLitho](https://tool.itslitho.com/CreateModel)
+- [Lithophane Makers](https://lithophanemaker.com/index.html)
+
 ## STL
 
 - [Cults](https://cults3d.com)
@@ -56,16 +64,15 @@
 - [Multiboard](https://www.multiboard.io)
 - [MyMiniFactory](https://www.myminifactory.com)
 - [Printables](https://www.printables.com)
-- [THANGS](https://thangs.com)
+- [Thangs](https://thangs.com)
 - [Thingiverse](https://www.thingiverse.com)
 
-## Lithophane
-
-- [Image to Lithophane](https://3dp.rocks/lithophane)
-- [ItsLitho](https://tool.itslitho.com/CreateModel)
-- [Lithophane Makers](https://lithophanemaker.com/index.html)
-
-## Prusa Mini Firmware
+## Prusa Firmware
 
 - [Prusa-Firmware](https://github.com/prusa3d/Prusa-Firmware)
 - [Snake Mini - Unofficial Firmware for the Prusa 32 Bit Boards](https://github.com/Snake-Edition/P32-FW)
+
+## Prusawire
+
+- [Prusawire - April Fools gone Right](https://www.printables.com/article/prusawire-april-fools-gone-right-Vmd8w5l)
+- [Prusawire 2025.B1 (BETA 1) by Ella Fox](https://www.printables.com/model/1363547-prusawire-2025b1-beta-1)
