@@ -27,6 +27,7 @@
 - [datarhei Restreamer](https://docs.datarhei.com/restreamer)
 - [SVG logos](https://svgl.app)
 - [Twitch-Channel-Points-Miner-v2](https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2)
+- [TwitchDropsMiner Docker](https://twitchdropsminer.com) / [:material-github:](https://github.com/Davixk/TwitchDropsMiner)
 - [TwitchDropsMiner](https://github.com/DevilXD/TwitchDropsMiner)
 
 ## Hardware

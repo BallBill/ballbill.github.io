@@ -106,6 +106,7 @@
 ## Windows Tools
 
 - [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher)
+- [Microsoft Activation Scripts (MAS)](https://massgrave.dev)
 - [WinDbg](https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger)
 - [WinSetView](https://github.com/LesFerch/WinSetView)
 - [WinUtil](https://github.com/ChrisTitusTech/winutil)
