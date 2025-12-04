@@ -1,0 +1,3 @@
+- [Hostelling International](https://hihostels.com)
+- [MOOK - 墨刻出版 華文旅遊生活風格全方位媒體](https://www.mook.com.tw)
+- [背包客棧](https://www.backpackers.com.tw/forum)
