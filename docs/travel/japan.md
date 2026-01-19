@@ -12,9 +12,13 @@
 - [Visit Japan Web](https://www.vjw.digital.go.jp)
 - [Walkerplus](https://www.walkerplus.com)
 - [日本國家旅遊局](https://www.japan.travel/hk/hk)
+- [日本觀光振興協會](https://www.nihon-kankou.or.jp/home)
+
+## Weather
+
+- [Weathernews](https://weathernews.jp)
 - [日本氣象協會](https://tenki.jp)
 - [日本氣象廳](https://www.jma.go.jp)
-- [日本觀光振興協會](https://www.nihon-kankou.or.jp/home)
 
 ## 京阪神
 
@@ -33,3 +37,4 @@
 
 - [湯布院號](https://www.highwaybus.com/gp/info/lineDetail?lineGroupNo=14&lineId=482)
 - [由布院之森](https://www.jrkyushu.co.jp/chinese/train/yufuin_no_mori.html)
+- [福岡・福岡空港 〜 湯布院　（ゆふいん号）](https://www.nishitetsu.jp/bus/highwaybus/rosen/yufuin)

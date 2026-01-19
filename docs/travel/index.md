@@ -1,3 +1,5 @@
+- [BringYou - 自由行攻略、旅遊景點、交通資訊、票券使用方式](https://www.bring-you.info)
 - [Hostelling International](https://hihostels.com)
 - [MOOK - 墨刻出版 華文旅遊生活風格全方位媒體](https://www.mook.com.tw)
+- [幫主出巡環遊世界 - 大衛營](https://www.davidwin.net)
 - [背包客棧](https://www.backpackers.com.tw/forum)

@@ -25,6 +25,7 @@
 - [ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS)
 - [ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm)
 - [datarhei Restreamer](https://docs.datarhei.com/restreamer)
+- [Docker Twitch Drops Miner](https://github.com/fireph/docker-twitch-drops-miner)
 - [SVG logos](https://svgl.app)
 - [Twitch-Channel-Points-Miner-v2](https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2)
 - [TwitchDropsMiner Docker](https://twitchdropsminer.com) / [:material-github:](https://github.com/Davixk/TwitchDropsMiner)
