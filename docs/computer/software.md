@@ -44,8 +44,8 @@
 
 ## File Sync
 
-- [AList](https://alist.nn.ci)
 - [FreeFileSync](https://freefilesync.org)
+- [OpenList](https://doc.oplist.org)
 - [Rclone browser](https://kapitainsky.github.io/RcloneBrowser)
 - [Rclone](https://rclone.org)
 - [Syncthing](https://syncthing.net)

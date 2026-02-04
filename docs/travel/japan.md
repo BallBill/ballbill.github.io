@@ -23,6 +23,7 @@
 ## 京阪神
 
 - [海遊館](https://www.kaiyukan.com)
+- [若草山焼き](https://www3.pref.nara.jp/yamayaki)
 - [阪堺電車](https://www.hankai.co.jp)
 
 ## 東京

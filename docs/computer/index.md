@@ -13,6 +13,10 @@
 - [RP2350-Zero](https://www.waveshare.net/wiki/RP2350-Zero)
 - [TelegramGroup](https://github.com/AZeC4/TelegramGroup)
 - [W3Techs](https://w3techs.com)
+## AI
+
+- [Ollama](https://ollama.com)
+- [OpenClaw](https://openclaw.ai)
 
 ## Blog
 
