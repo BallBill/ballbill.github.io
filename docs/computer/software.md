@@ -63,6 +63,15 @@
 - [SmartTube](https://github.com/yuliskov/SmartTube)
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
+### TV
+
+- [DecoTV](https://github.com/Decohererk/DecoTV)
+- [DongguaTV Enhanced Edition](https://github.com/EdNovas/dongguaTV)
+- [LunaTV Enhanced Edition](https://github.com/SzeMeng76/LunaTV)
+- [LunaTV-config](https://github.com/hafrey1/LunaTV-config)
+- [MoonTVPlus](https://github.com/mtvpls/MoonTVPlus)
+- [OrionTV](https://github.com/orion-lib/OrionTV)
+
 ## Router
 
 - [adblock-lean](https://forum.openwrt.org/t/adblock-lean-set-up-adblock-using-dnsmasq-blocklist/157076) / [:material-github:](https://github.com/lynxthecat/adblock-lean)

@@ -9,10 +9,12 @@
 - [Open Source Alternative To](https://www.opensourcealternative.to)
 - [Personal Data Leak Checker](https://cybernews.com/personal-data-leak-check)
 - [Pico Keys](https://www.picokeys.com) / [:material-github:](https://github.com/polhenarejos/pico-fido)
+- [PicoForge](https://github.com/librekeys/picoforge)
 - [Privacy Guides](https://www.privacyguides.org)
 - [RP2350-Zero](https://www.waveshare.net/wiki/RP2350-Zero)
 - [TelegramGroup](https://github.com/AZeC4/TelegramGroup)
 - [W3Techs](https://w3techs.com)
+
 ## AI
 
 - [Ollama](https://ollama.com)

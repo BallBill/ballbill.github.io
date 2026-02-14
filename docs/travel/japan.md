@@ -13,6 +13,7 @@
 - [Walkerplus](https://www.walkerplus.com)
 - [日本國家旅遊局](https://www.japan.travel/hk/hk)
 - [日本觀光振興協會](https://www.nihon-kankou.or.jp/home)
+- [櫻花花期預測](https://sakura.weathermap.jp)
 
 ## Weather
 
