@@ -17,6 +17,7 @@
 
 ## AI
 
+- [Hugging Face](https://huggingface.co)
 - [Ollama](https://ollama.com)
 - [OpenClaw](https://openclaw.ai)
 

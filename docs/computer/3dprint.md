@@ -75,4 +75,4 @@
 ## Prusawire
 
 - [Prusawire - April Fools gone Right](https://www.printables.com/article/prusawire-april-fools-gone-right-Vmd8w5l)
-- [Prusawire 2025.B1 (BETA 1) by Ella Fox](https://www.printables.com/model/1363547-prusawire-2025b1-beta-1)
+- [Prusawire](https://prusawire.positron3d.com)

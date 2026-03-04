@@ -7,10 +7,13 @@
 
 ## Trainer
 
+- [Cheat Engine](https://cheatengine.org)
 - [FearLess Cheat Engine](https://fearlessrevolution.com/index.php)
 - [FLiNG Trainer](https://flingtrainer.com)
+- [Game Cheats Manager](https://gamezonelabs.com) / [:material-github:](https://github.com/dyang886/Game-Cheats-Manager)
 - [GameCopyWorld](https://www.gamecopyworld.com/games)
 - [MrAntiFun](https://mrantifun.net)
+- [Open Cheat Tables](https://opencheattables.com)
 
 ## Other
 
