@@ -61,7 +61,7 @@
 - [Cults](https://cults3d.com)
 - [Gridfinity](https://gridfinity.xyz)
 - [MakerWorld](https://makerworld.com)
-- [Multiboard](https://www.multiboard.io)
+- [Multiboard](https://multibuild.io)
 - [MyMiniFactory](https://www.myminifactory.com)
 - [Printables](https://www.printables.com)
 - [Thangs](https://thangs.com)
