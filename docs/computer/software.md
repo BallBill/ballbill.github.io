@@ -9,9 +9,7 @@
 
 ## Adblock
 
-- [AdAway](https://adaway.org)
 - [anti-AD](https://anti-ad.net)
-- [iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV)
 - [SponsorBlock](https://sponsor.ajay.app)
 
 ## Discord
@@ -58,13 +56,13 @@
 - [a4kSubtitles](https://a4k-openproject.github.io/a4kSubtitles)
 - [Media Player Classic - BE](https://sourceforge.net/projects/mpcbe)
 - [Media Player Classic - Home Cinema](https://github.com/clsid2/mpc-hc)
-- [SmartTube](https://github.com/yuliskov/SmartTube)
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
 ### TV
 
 - [DecoTV](https://github.com/Decohererk/DecoTV)
 - [DongguaTV Enhanced Edition](https://github.com/EdNovas/dongguaTV)
+- [IPTV](https://iptv-org.github.io) / [:material-github:](https://github.com/iptv-org/iptv)
 - [LunaTV Enhanced Edition](https://github.com/SzeMeng76/LunaTV)
 - [LunaTV-config](https://github.com/hafrey1/LunaTV-config)
 - [MoonTVPlus](https://github.com/mtvpls/MoonTVPlus)

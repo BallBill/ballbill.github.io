@@ -1,16 +1,19 @@
+- [AdAway](https://adaway.org)
 - [Android SDK Platform-Tools](https://developer.android.com/tools/releases/platform-tools)
 - [Basic Call Recorder](https://github.com/chenxiaolong/BCR)
-- [Binary Eye](https://github.com/markusfisch/BinaryEye)
 - [Headuck](https://blog.headuck.com)
 - [Morphe](https://morphe.software)
 - [Pixelify](https://github.com/Kingsman44/Pixelify)
 - [ReVanced eXtended](https://github.com/NoName-exe/revanced-extended)
 - [ReVanced Magisk Module](https://github.com/j-hc/revanced-magisk-module)
-- [ReVanced](https://revanced.app)
-- [SafeCantonese AI](https://safecantonese.ai)
 - [StevenBlock](https://github.com/mikropsoft/StevenBlock)
 - [Universal Android Debloater GUI](https://github.com/0x192/universal-android-debloater)
 - [Xiaomi.eu](https://xiaomi.eu/community)
+
+## Android TV
+
+- [iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV)
+- [SmartTube](https://github.com/yuliskov/SmartTube)
 
 ## Root
 

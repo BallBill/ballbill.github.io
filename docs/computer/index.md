@@ -4,7 +4,6 @@
 - [Greasy Fork](https://greasyfork.org) / [Sleazy Fork](https://sleazyfork.org)
 - [iFixit: The Free Repair Manual](https://www.ifixit.com)
 - [Internet Archive](https://archive.org)
-- [IPTV](https://iptv-org.github.io) / [:material-github:](https://github.com/iptv-org/iptv)
 - [JustDeleteMe](https://justdeleteme.xyz)
 - [Open Source Alternative To](https://www.opensourcealternative.to)
 - [Personal Data Leak Checker](https://cybernews.com/personal-data-leak-check)
