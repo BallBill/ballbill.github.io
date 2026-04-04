@@ -5,6 +5,13 @@
 - [Skada](https://github.com/bkader/Skada-WoTLK)
 - [Warmane](https://www.warmane.com)
 
+## Guide
+
+- [Fextralife](https://fextralife.com)
+- [Game8](https://game8.co)
+- [Map Genie](https://mapgenie.io)
+- [娛樂計程車](https://www.entertainment14.net/blog)
+
 ## Trainer
 
 - [Cheat Engine](https://cheatengine.org)
@@ -14,6 +21,7 @@
 - [GameCopyWorld](https://www.gamecopyworld.com/games)
 - [MrAntiFun](https://mrantifun.net)
 - [Open Cheat Tables](https://opencheattables.com)
+- [伏特修改器](https://fute.games)
 
 ## Other
 
@@ -29,4 +37,3 @@
 - [REFramework](https://reframework.praydog.com)
 - [RomM](https://romm.app)
 - [SteamDB](https://steamdb.info)
-- [娛樂計程車](https://www.entertainment14.net/blog)

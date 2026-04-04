@@ -4,9 +4,7 @@
 - [G-Helper](https://seerge.github.io/g-helper)
 - [obs-websocket](https://github.com/obsproject/obs-websocket)
 - [Proxmox VE Helper-Scripts](https://helper-scripts.com)
-- [RSS to Telegram Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot)
 - [SelfPrivacy](https://selfprivacy.org)
-- [Yubico Authenticator](https://www.yubico.com/products/yubico-authenticator)
 - [繁化姬](https://zhconvert.org)
 
 ## Adblock
@@ -105,6 +103,12 @@
 
 - [MobaXterm](https://mobaxterm.mobatek.net)
 - [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty)
+
+## Twitch
+
+- [Docker Twitch Drops Miner](https://github.com/fireph/docker-twitch-drops-miner)
+- [Twitch-Channel-Points-Miner-v2](https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2)
+- [TwitchDropsMiner](https://github.com/DevilXD/TwitchDropsMiner)
 
 ## Uninstaller
 

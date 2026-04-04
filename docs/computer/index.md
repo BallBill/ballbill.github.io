@@ -8,12 +8,7 @@
 - [JustDeleteMe](https://justdeleteme.xyz)
 - [Open Source Alternative To](https://www.opensourcealternative.to)
 - [Personal Data Leak Checker](https://cybernews.com/personal-data-leak-check)
-- [Pico Keys](https://www.picokeys.com) / [:material-github:](https://github.com/polhenarejos/pico-fido)
-- [PicoForge](https://github.com/librekeys/picoforge)
 - [Privacy Guides](https://www.privacyguides.org)
-- [RP2350-Zero](https://www.waveshare.net/wiki/RP2350-Zero)
-- [TelegramGroup](https://github.com/AZeC4/TelegramGroup)
-- [W3Techs](https://w3techs.com)
 
 ## AI
 
@@ -29,14 +24,9 @@
 
 ## GitHub
 
-- [ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS)
 - [ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm)
 - [datarhei Restreamer](https://docs.datarhei.com/restreamer)
-- [Docker Twitch Drops Miner](https://github.com/fireph/docker-twitch-drops-miner)
 - [SVG logos](https://svgl.app)
-- [Twitch-Channel-Points-Miner-v2](https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2)
-- [TwitchDropsMiner Docker](https://twitchdropsminer.com) / [:material-github:](https://github.com/Davixk/TwitchDropsMiner)
-- [TwitchDropsMiner](https://github.com/DevilXD/TwitchDropsMiner)
 
 ## Hardware
 
@@ -62,8 +52,8 @@
 - [Github Ranking](https://evanli.github.io/Github-Ranking)
 - [Gitstar Ranking](https://gitstar-ranking.com)
 - [SimilarWeb](https://www.similarweb.com)
-- [TIOBE](https://www.tiobe.com)
 - [Trending Repositories](https://trendingrepos.glup3.dev)
+- [W3Techs](https://w3techs.com)
 
 ## RC
 
@@ -72,15 +62,27 @@
 - [ExpressLRS](https://www.expresslrs.org)
 - [Multiprotocol TX Module](https://github.com/pascallanger/DIY-Multiprotocol-TX-Module)
 
+## RSS
+
+- [ALL-about-RSS](https://rss.tips)
+- [RSS to Telegram Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot)
+- [RSSHub](https://docs.rsshub.app)
+
+## Security Key
+
+- [Pico Keys](https://www.picokeys.com) / [:material-github:](https://github.com/polhenarejos/pico-fido)
+- [PicoForge](https://github.com/librekeys/picoforge)
+- [RP2350-Zero](https://www.waveshare.net/wiki/RP2350-Zero)
+- [Yubico Authenticator](https://www.yubico.com/products/yubico-authenticator)
+
+## Telegram
+
+- [Awesome Telegram](https://github.com/ebertti/awesome-telegram)
+- [TelegramGroup](https://github.com/AZeC4/TelegramGroup)
+
 ## Web
 
 - [Material for MkDocs](https://squidfunk.github.io/mkdocs-material)
 - [Memos](https://www.usememos.com)
-- [MkDocs](https://www.mkdocs.org)
-- [VuePress](https://vuepress.vuejs.org)
 
 ## Other
-
-- [PagerMaid-Pyro](https://xtaolabs.com)
-- [RSSHub](https://docs.rsshub.app)
-- [XPEnology](https://xpenology.com/forum)

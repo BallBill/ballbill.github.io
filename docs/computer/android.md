@@ -2,7 +2,6 @@
 - [Basic Call Recorder](https://github.com/chenxiaolong/BCR)
 - [Binary Eye](https://github.com/markusfisch/BinaryEye)
 - [Headuck](https://blog.headuck.com)
-- [Location Report Enabler](https://github.com/fa1se/LocationReportEnabler)
 - [Morphe](https://morphe.software)
 - [Pixelify](https://github.com/Kingsman44/Pixelify)
 - [ReVanced eXtended](https://github.com/NoName-exe/revanced-extended)
