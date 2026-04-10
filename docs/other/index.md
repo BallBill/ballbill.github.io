@@ -1,11 +1,10 @@
 # NOTHING
 
 - [GreatFire](https://greatfire.org)
-- [Worldwide IQ Test](https://www.worldwide-iq-test.com)
 - [六四記憶‧人權博物館](https://8964museum.com)
 - [地理資訊地圖](https://www.map.gov.hk/gm)
 - [天行足跡 Skywalker's footprints](http://www.skywalker.autozine.org)
-- [小雅 Alist](https://alist.xiaoya.pro)
+- [小雅 Alist](https://github.com/xiaoyaDev/xiaoya-alist)
 - [新·品葱](https://pincong.rocks)
 - [深圳地鐵線路圖](https://www.mtrsz.com.cn/frontend/default/src/channel/line_img.html)
 - [聞庫](https://collection.news)

@@ -1,6 +1,5 @@
 # Albion Online
 
-* [Albion Battle Reports](https://albionbattles.com)
 * [Albion DB East](https://east.albiondb.net)
 * [Albion DB West](https://albiondb.net)
 * [Albion Online Loot Logger](https://matheus.sampaio.us/ao-loot-logger-viewer)

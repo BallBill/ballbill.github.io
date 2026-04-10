@@ -74,6 +74,7 @@
 - [Asuswrt-Merlin](https://www.asuswrt-merlin.net)
 - [Breed](https://blog.hackpascal.net) / [Forum](https://www.right.com.cn/forum/thread-161906-1-1.html)
 - [Diversion](https://diversion.ch)
+- [Hysteria 2](https://v2.hysteria.network/zh)
 - [ImmortalWrt](https://downloads.immortalwrt.org) / [ImmortalWrt Firmware Selector](https://firmware-selector.immortalwrt.org)
 - [OpenWrt](https://openwrt.org) / [OpenWrt Firmware Selector](https://firmware-selector.openwrt.org)
 - [Padavan](https://opt.cn2qq.com) / [Forum](https://www.right.com.cn/forum/thread-161324-1-1.html)
