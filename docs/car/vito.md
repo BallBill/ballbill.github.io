@@ -26,10 +26,6 @@
 | [![A6394200220](https://cdn.spareto.com/variants/images/000/643/071/small/38532.jpg?1606346077)](https://spareto.com/oe/6394200220)																																		|
 | [![A9064210400](https://cdn.spareto.com/variants/images/002/055/262/small/converted-20230217-3231892-5ba08h.jpg?1676592242)](https://spareto.com/oe/9064210400) [Link](https://www.bremboparts.com/asiapacific/zht/catalogue/pad/P50085N) 								|
 | [![A4474200320](https://cdn.spareto.com/variants/images/002/055/285/small/converted-20230217-3231892-ihek91.jpg?1676592247)](https://spareto.com/oe/4474200320) [Link](https://www.bremboparts.com/asiapacific/zht/catalogue/pad/P50126N)									|
-| [![A6510700768](https://www.europaparts.com/media/catalog/product/cache/9a597a8a5b243cb92ca5d0b5aa36b0d3/6/5/6510700768.jpg)](https://www.europaparts.com/vacuum-reservoir-6510700768.html)                                                                               |
-| [![A1249900492](https://vehicleclips.co.uk/cdn/shop/products/7mm-expanding-plastic-rivet-smart-a1249900492-860527_695x695.jpg?v=1697552074)](https://vehicleclips.co.uk/products/7mm-expanding-plastic-rivet-smart-a1249900492?_pos=1&_sid=5fc3c59ba&_ss=r)               |
-| [![A2019900292](https://vehicleclips.co.uk/cdn/shop/products/8mm-push-fit-plastic-rivet-smart-a2019900292-547291_695x695.jpg?v=1697552185)](https://vehicleclips.co.uk/products/8mm-push-fit-plastic-rivet-smart-a2019900292?_pos=1&_sid=3698fdae5&_ss=r)                 |
-| [![A0009919440](https://vehicleclips.co.uk/cdn/shop/products/7mm-push-fit-plastic-rivet-clip-mercedes-a0009919440-313892_695x695.jpg?v=1703104160)](https://vehicleclips.co.uk/products/7mm-push-fit-plastic-rivet-clip-mercedes-a0009919440?_pos=1&_sid=bf220b042&_ss=r) |
 
 ## Oil
 

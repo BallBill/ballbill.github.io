@@ -11,6 +11,7 @@
 
 ## AI
 
+- [CanIRun.ai](https://www.canirun.ai)
 - [Hugging Face](https://huggingface.co)
 - [Ollama](https://ollama.com)
 - [OpenClaw](https://openclaw.ai)
@@ -20,6 +21,10 @@
 - [HelloGitHub](https://hellogithub.com) / [:material-github:](https://github.com/521xueweihan/HelloGitHub)
 - [Lyc8503's blog](https://blog.lyc8503.net)
 - [科技爱好者周刊](https://www.ruanyifeng.com/blog) / [:material-github:](https://github.com/ruanyf/weekly)
+## Forum
+
+- [LINUX DO](https://linux.do)
+- [NodeSeek](https://www.nodeseek.com)
 
 ## GitHub
 
