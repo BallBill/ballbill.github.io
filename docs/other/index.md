@@ -30,6 +30,7 @@
 ## Drug
 
 - 1-PRO Lactobacillus plantarum 299v
+- Alcon Tobradex
 - Colestop Tablets 醇為降™ 10mg
 - Esomeprazole Actavis 40mg (teva)
 
