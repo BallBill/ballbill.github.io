@@ -8,4 +8,4 @@
 
 ![YAN FPS](../img/yan_fps.png "YAN FPS")
 ![YAN PAYME](../img/yan_payme.jpg "YAN PAYME")
-![YAN ALIPAY](../img/yan_alipay.png "YAN ALIPAY")
+![YAN ALIPAY](../img/yan_alipay.jpg "YAN ALIPAY")
