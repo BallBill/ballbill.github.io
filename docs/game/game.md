@@ -1,3 +1,8 @@
+## Red Dead Redemption 2 / Red Dead Online
+
+- [RDOMap](https://jeanropke.github.io/RDOMap)
+- [RDR2CollectorsMap](https://jeanropke.github.io/RDR2CollectorsMap)
+
 ## World Of Warcraft
 
 - [DBM-Warmane](https://github.com/Zidras/DBM-Warmane)
