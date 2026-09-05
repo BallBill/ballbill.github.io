@@ -15,11 +15,13 @@
 
 ## HomeKit
 
+- [Configurador MEPLHAA](https://haaconfig.github.io/meplhaa-configurator)
 - [HAA - Home Accessory Architect](https://github.com/RavenSystem/esp-homekit-devices) / [converter-to-merlin](https://converter-to-merlin.netlify.app)
 - [Homebridge](https://homebridge.io)
 
 ## Other
 
+- [ESPHome Device Configuration Repository - ESPHome Devices](https://devices.esphome.io)
 - [Scrypted](https://www.scrypted.app)
 - [Tasmota](https://tasmota.github.io/docs)
 - [thingino](https://thingino.com)

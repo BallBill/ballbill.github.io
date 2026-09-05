@@ -58,3 +58,5 @@
 - [射手网(伪)](https://assrt.net)
 
 ## Others
+
+- 48"x75"x3" / 4尺 X 6尺3 / 122 x 190cm
